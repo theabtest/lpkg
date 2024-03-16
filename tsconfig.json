@@ -9,7 +9,8 @@
     "sourceMap": true /* Create source map files for emitted JavaScript files. */,
     "importsNotUsedAsValues": "remove" /* Specify emit/checking behavior for imports that are only used for types. */,
     "isolatedModules": true /* Ensure that each file can be safely transpiled without relying on other imports. */,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "skipLibCheck": true
   },
   "include": ["./src/**/*.ts"],
   "ts-node": {

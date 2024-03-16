@@ -1,7 +1,11 @@
-import { FunctionTool, OpenAIAgent, ToolParameters } from 'llamaindex';
+import { PromptTemplate } from '@langchain/core/prompts';
+import chalk from 'chalk';
+import { ToolParameters } from 'llamaindex';
+import { stdin as input, stdout as output } from 'node:process';
+import readline from 'node:readline';
+import { model } from './ai/model.js';
 import { ENVIRONMENT } from './utilities/config.js';
-
-console.log('API Key:', ENVIRONMENT);
+import logger, { agentLogger, userLogger } from './utilities/logger.js';
 
 // Define a function to sum two numbers
 function sumNumbers({ a, b }: { a: number; b: number }): number {
@@ -45,36 +49,108 @@ const divideJSON: ToolParameters = {
   required: ['a', 'b'],
 };
 
+// const llm = new Ollama({
+//   baseUrl: ENVIRONMENT.OLLAMA_BASE_URL,
+//   verbose: true,
+//   model: 'codellama',
+// });
+
+// Notice that a "chat_history" variable is present in the prompt template
+const template = `You are an expert programmer that writes simple, concise code and explanations. You can only understand and write code in TypeScript. You will always answer the questions with a markdown code block containing TypeScript code that solves the problem and a brief explanation of the code below the markdown code block.
+
+You are currently helping the user solve a programming problem in TypeScript and that is the GOAL. Whenever the user gives you FEEDBACK, you should modify the PREVIOUS output to incorporate the feedback and then provide a new RESPONSE. Be sure to remember to include all the goals.
+===========================
+Goal: {input}
+===========================
+PreviousResponse: {previous}
+===========================
+Response:`;
+
+const prompt = PromptTemplate.fromTemplate(template);
+
+// const jsonSchema = {
+//   title: "Person",
+//   description: "Identifying information about a person.",
+//   type: "object",
+//   properties: {
+//     name: { title: "Name", description: "The person's name", type: "string" },
+//     age: { title: "Age", description: "The person's age", type: "integer" },
+//     fav_food: {
+//       title: "Fav Food",
+//       description: "The person's favorite food",
+//       type: "string",
+//     },
+//   },
+//   required: ["name", "age"],
+// };
+
+// const outputParser = new JsonOutputFunctionsParser();
+
+// const runnable = createStructuredOutputRunnable({
+//   outputSchema: jsonSchema,
+//   llm: model,
+//   prompt:prompt,
+//   outputParser
+// })
+
+const ask = async (question: string): Promise<string> => {
+  return await new Promise<string>((resolve) => {
+    const rl = readline.createInterface({ input, output });
+    rl.question(chalk.cyanBright(question), (answer) => {
+      resolve(answer);
+      rl.close();
+    });
+  });
+};
+
 async function main() {
-  // Create a function tool from the sum function
-  const sumFunctionTool = new FunctionTool(sumNumbers, {
-    name: 'sumNumbers',
-    description: 'Use this function to sum two numbers',
-    parameters: sumJSON,
+  // const conversationChain = new LLMChain({
+  //   llm,
+  //   prompt,
+  //   verbose: true,
+  //   memory: llmMemory,
+  //   outputKey: 'response',
+  // });
+
+  const goal = await ask('What is the programming problem you want to solve? ');
+  const chain = prompt.pipe(model);
+  const result = await chain.invoke({
+    input: goal,
+    previous: '',
   });
 
-  // Create a function tool from the divide function
-  const divideFunctionTool = new FunctionTool(divideNumbers, {
-    name: 'divideNumbers',
-    description: 'Use this function to divide two numbers',
-    parameters: divideJSON,
-  });
+  agentLogger.log(result.content);
 
-  // Create an OpenAIAgent with the function tools
-  const agent = new OpenAIAgent({
-    tools: [sumFunctionTool, divideFunctionTool],
-    verbose: true,
-  });
+  let loop = true;
+  let context = [goal];
+  let stack = [result.content.toString()];
+  do {
+    const feedback = await ask('What is next? q to quit. undo to go back.');
+    loop = feedback !== 'q';
+    if (!loop) {
+      logger('Quitting');
+      process.exit(0);
+    }
 
-  // Chat with the agent
-  const response = await agent.chat({
-    message: 'How much is 5 + -5? then divide by 0',
-  });
+    if (feedback === 'undo') {
+      context.pop();
+      stack.pop();
+      continue;
+    }
 
-  // Print the response
-  console.log(String(response));
+    context.push(feedback);
+    const previous = stack[stack.length - 1];
+    const response = await chain.invoke({
+      input: context.join('\n'),
+      previous: previous ?? '',
+    });
+
+    userLogger.log(feedback);
+    agentLogger.log(response.content.toString());
+    stack.push(response.content.toString());
+  } while (loop);
 }
 
-main().then(() => {
-  console.log('Done');
-});
+logger(`Starting ${ENVIRONMENT.NAME}`);
+await main();
+logger('Done!');
