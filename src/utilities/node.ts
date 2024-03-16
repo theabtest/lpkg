@@ -1,6 +1,8 @@
+import chalk from 'chalk';
 import { createRequire } from 'node:module';
 import { dirname } from 'node:path';
-import { argv } from 'node:process';
+import { argv, stdin as input, stdout as output } from 'node:process';
+import readline from 'node:readline';
 import { fileURLToPath } from 'node:url';
 
 /**
@@ -30,4 +32,14 @@ export const isMain = (meta: ImportMeta): boolean => {
   const scriptPath = require.resolve(argv[1]);
   const modulePath = __filename(meta);
   return scriptPath === modulePath;
+};
+
+export const ask = async (question: string): Promise<string> => {
+  return await new Promise<string>((resolve) => {
+    const rl = readline.createInterface({ input, output });
+    rl.question(chalk.cyanBright(question), (answer) => {
+      resolve(answer);
+      rl.close();
+    });
+  });
 };

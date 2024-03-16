@@ -1,11 +1,9 @@
 import { PromptTemplate } from '@langchain/core/prompts';
-import chalk from 'chalk';
 import { ToolParameters } from 'llamaindex';
-import { stdin as input, stdout as output } from 'node:process';
-import readline from 'node:readline';
 import { model } from './ai/model.js';
 import { ENVIRONMENT } from './utilities/config.js';
 import logger, { agentLogger, userLogger } from './utilities/logger.js';
+import { ask } from './utilities/node.js';
 
 // Define a function to sum two numbers
 function sumNumbers({ a, b }: { a: number; b: number }): number {
@@ -92,16 +90,6 @@ const prompt = PromptTemplate.fromTemplate(template);
 //   prompt:prompt,
 //   outputParser
 // })
-
-const ask = async (question: string): Promise<string> => {
-  return await new Promise<string>((resolve) => {
-    const rl = readline.createInterface({ input, output });
-    rl.question(chalk.cyanBright(question), (answer) => {
-      resolve(answer);
-      rl.close();
-    });
-  });
-};
 
 async function main() {
   // const conversationChain = new LLMChain({
