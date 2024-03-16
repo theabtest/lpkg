@@ -1,0 +1,332 @@
+{
+  "search_metadata": {
+    "id": "65f61c121e803f6b7ec3f42c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f9ac85fe34326494/65f61c121e803f6b7ec3f42c.json",
+    "created_at": "2024-03-16 22:24:18 UTC",
+    "processed_at": "2024-03-16 22:24:18 UTC",
+    "google_url": "https://www.google.com/search?q=Firefly+Slime+Seattle%2C+Washington%2C+United+States&oq=Firefly+Slime+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/f9ac85fe34326494/65f61c121e803f6b7ec3f42c.html",
+    "total_time_taken": 1.53
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Firefly Slime Seattle, Washington, United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Firefly Slime Seattle, Washington, United States",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Firefly Slimes",
+      "link": "https://fireflyslime.com/",
+      "redirect_link": "https://www.google.comhttps://fireflyslime.com/",
+      "displayed_link": "https://fireflyslime.com",
+      "favicon": "https://serpapi.com/searches/65f61c121e803f6b7ec3f42c/images/fe3301689f64fac07b4b03683e89b4ecfaf8f845eca44a28a0f7fff437dfcbfa.png",
+      "snippet": "Made with love. We make all of our slime products and film our social media videos in Seattle, Washington USA!",
+      "snippet_highlighted_words": [
+        "slime",
+        "Seattle",
+        "Washington USA"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Shop",
+            "link": "https://fireflyslime.com/collections/slime"
+          },
+          {
+            "title": "In Stock",
+            "link": "https://fireflyslime.com/collections/in-stock"
+          },
+          {
+            "title": "About",
+            "link": "https://fireflyslime.com/pages/about-us"
+          },
+          {
+            "title": "FAQ",
+            "link": "https://fireflyslime.com/a/faq"
+          }
+        ]
+      },
+      "source": "fireflyslime"
+    },
+    {
+      "position": 2,
+      "title": "All Slime",
+      "link": "https://fireflyslime.com/collections/slime",
+      "redirect_link": "https://www.google.comhttps://fireflyslime.com/collections/slime",
+      "displayed_link": "https://fireflyslime.com › collections › slime",
+      "favicon": "https://serpapi.com/searches/65f61c121e803f6b7ec3f42c/images/fe3301689f64fac07b4b03683e89b4ecc2f464a5319bd1ade4093974d73fb336.png",
+      "snippet": "Handcrafted slime from seattle, WA. Stretch ... ABOUT US. Since 2017, our mission at ... Fireflyslime is dedicated to reducing our carbon footprint and ...",
+      "snippet_highlighted_words": [
+        "seattle",
+        "WA",
+        "US",
+        "Fireflyslime"
+      ],
+      "missing": [
+        "United",
+        "States"
+      ],
+      "source": "fireflyslime"
+    },
+    {
+      "position": 3,
+      "title": "About Us",
+      "link": "https://fireflyslime.com/pages/about-us",
+      "redirect_link": "https://www.google.comhttps://fireflyslime.com/pages/about-us",
+      "displayed_link": "https://fireflyslime.com › pages › about-us",
+      "favicon": "https://serpapi.com/searches/65f61c121e803f6b7ec3f42c/images/fe3301689f64fac07b4b03683e89b4ecc9d71866fc2d6bb866e6fc8fee225e35.png",
+      "snippet": "I'm from Seattle, Washington and I am the founder of Fireflyslime. I run all operations from filming, editing, packaging, to creating. I am currently a full ...",
+      "snippet_highlighted_words": [
+        "Seattle",
+        "Washington",
+        "Fireflyslime"
+      ],
+      "missing": [
+        "United"
+      ],
+      "must_include": {
+        "word": "United",
+        "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&gl=us&hl=en&q=Firefly+Slime+Seattle,+Washington,+%22United%22+States&sa=X&ved=2ahUKEwjbnqav6fmEAxUI1TQHHSwMDQIQ5t4CegQIJxAB"
+      },
+      "source": "fireflyslime"
+    },
+    {
+      "position": 4,
+      "title": "In Stock",
+      "link": "https://fireflyslime.com/collections/in-stock",
+      "redirect_link": "https://www.google.comhttps://fireflyslime.com/collections/in-stock",
+      "displayed_link": "https://fireflyslime.com › collections › in-stock",
+      "favicon": "https://serpapi.com/searches/65f61c121e803f6b7ec3f42c/images/fe3301689f64fac07b4b03683e89b4ec0149fb3c47c587940f1e9909122cbecf.png",
+      "snippet": "Handcrafted slime from seattle, WA. Stretch, Squeeze, and pop your stress ... Fireflyslime Green Slime Stretch Die-Cut Sticker. No reviews. Regular price $2.00 ...",
+      "snippet_highlighted_words": [
+        "seattle",
+        "WA",
+        "Fireflyslime"
+      ],
+      "missing": [
+        "United",
+        "States"
+      ],
+      "source": "fireflyslime"
+    },
+    {
+      "position": 5,
+      "title": "Fireflyslime ♡₊˚ Slime Shop",
+      "link": "https://www.instagram.com/fireflyslime/?hl=en",
+      "redirect_link": "https://www.google.comhttps://www.instagram.com/fireflyslime/?hl=en",
+      "displayed_link": "374.9K+ followers",
+      "favicon": "https://serpapi.com/searches/65f61c121e803f6b7ec3f42c/images/fe3301689f64fac07b4b03683e89b4ecf8fd946b45e4db79bf7763773fdbbee7.png",
+      "snippet": "For your crafty & stress-relief needs since 2017 ⭐️ Featured on Scholastic, Fox13, & Slime Wars Weekly restocks + worldwide shipping. fireflyslime.com.",
+      "snippet_highlighted_words": [
+        "fireflyslime"
+      ],
+      "missing": [
+        "States"
+      ],
+      "must_include": {
+        "word": "States",
+        "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&gl=us&hl=en&q=Firefly+Slime+Seattle,+Washington,+United+%22States%22&sa=X&ved=2ahUKEwjbnqav6fmEAxUI1TQHHSwMDQIQ5t4CegQIJRAB"
+      },
+      "source": "Instagram · fireflyslime"
+    },
+    {
+      "position": 6,
+      "title": "Slime Conventions",
+      "link": "https://fireflyslime.com/pages/slime-conventions",
+      "redirect_link": "https://www.google.comhttps://fireflyslime.com/pages/slime-conventions",
+      "displayed_link": "https://fireflyslime.com › pages › slime-conventions",
+      "favicon": "https://serpapi.com/searches/65f61c121e803f6b7ec3f42c/images/fe3301689f64fac07b4b03683e89b4ecc444e568344b017a7ac7e694b7ad6459.png",
+      "snippet": "Handcrafted slime from seattle, WA. Stretch ... Please email support@fireflyslime.com for serious inquires in Washington state. ... Meet some of the biggest ...",
+      "snippet_highlighted_words": [
+        "seattle",
+        "WA",
+        "fireflyslime",
+        "Washington state",
+        "of the"
+      ],
+      "missing": [
+        "United"
+      ],
+      "must_include": {
+        "word": "United",
+        "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&gl=us&hl=en&q=Firefly+Slime+Seattle,+Washington,+%22United%22+States&sa=X&ved=2ahUKEwjbnqav6fmEAxUI1TQHHSwMDQIQ5t4CegQIIRAB"
+      },
+      "source": "fireflyslime"
+    },
+    {
+      "position": 7,
+      "title": "Firefly Slime",
+      "link": "https://www.youtube.com/c/FireflySlime",
+      "redirect_link": "https://www.google.comhttps://www.youtube.com/c/FireflySlime",
+      "displayed_link": "21.2K+ followers",
+      "thumbnail": "https://serpapi.com/searches/65f61c121e803f6b7ec3f42c/images/fe3301689f64fac07b4b03683e89b4ec05dfaa4c713b279683447b62b2769c08.jpeg",
+      "favicon": "https://serpapi.com/searches/65f61c121e803f6b7ec3f42c/images/fe3301689f64fac07b4b03683e89b4ec12d18b9e3f0de117c1b2d9ee0f5c6038.png",
+      "snippet": "slime shop studio vlog ♡ unboxing, big restock, making slime, packaging · convention vlog | selling slime @ Tết in Seattle 2023 · slime birthday party vlog !",
+      "snippet_highlighted_words": [
+        "slime",
+        "slime",
+        "slime",
+        "Seattle",
+        "slime"
+      ],
+      "missing": [
+        "Washington,",
+        "States"
+      ],
+      "source": "YouTube · Firefly Slime"
+    },
+    {
+      "position": 8,
+      "title": "mystery slime supplies",
+      "link": "https://fireflyslime.com/products/mystery-slime-supply-pack",
+      "redirect_link": "https://www.google.comhttps://fireflyslime.com/products/mystery-slime-supply-pack",
+      "displayed_link": "https://fireflyslime.com › mystery-slime-supply-pack",
+      "thumbnail": "https://serpapi.com/searches/65f61c121e803f6b7ec3f42c/images/fe3301689f64fac07b4b03683e89b4ec231516fdb84ed6101b2f1d0c1bea2fbb.jpeg",
+      "favicon": "https://serpapi.com/searches/65f61c121e803f6b7ec3f42c/images/fe3301689f64fac07b4b03683e89b4ec031138c97fd06a6e481dc976c5d14142.png",
+      "snippet": "This includes 5 items of randomly selected slime supplies. The products shown in the ... Handcrafted slime from seattle, WA. Stretch ... Our mission at Fireflyslime ...",
+      "snippet_highlighted_words": [
+        "in the",
+        "seattle",
+        "WA",
+        "Fireflyslime"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5,
+            "reviews": 2,
+            "price": 9.99,
+            "currency": " $"
+          },
+          "extensions": [
+            "Rating: 5",
+            "‎ 2 reviews",
+            "‎ $9.99",
+            "‎ Out of stock"
+          ]
+        }
+      },
+      "missing": [
+        "United",
+        "States"
+      ],
+      "source": "fireflyslime"
+    },
+    {
+      "position": 9,
+      "title": "Supplies",
+      "link": "https://fireflyslime.com/collections/supplies",
+      "redirect_link": "https://www.google.comhttps://fireflyslime.com/collections/supplies",
+      "displayed_link": "https://fireflyslime.com › collections › supplies",
+      "thumbnail": "https://serpapi.com/searches/65f61c121e803f6b7ec3f42c/images/fe3301689f64fac07b4b03683e89b4ecf7a7c479bb4128bb09977681ed95078b.jpeg",
+      "favicon": "https://serpapi.com/searches/65f61c121e803f6b7ec3f42c/images/fe3301689f64fac07b4b03683e89b4ec7cfb9bb019cdc9ebbd56071a4bb2b910.png",
+      "snippet": "Handcrafted slime from seattle, WA. Stretch ... ABOUT US. Since 2017, our mission at Fireflyslime ... Fireflyslime is dedicated to reducing our carbon footprint ...",
+      "snippet_highlighted_words": [
+        "seattle",
+        "WA",
+        "US",
+        "Fireflyslime",
+        "Fireflyslime"
+      ],
+      "missing": [
+        "United",
+        "States"
+      ],
+      "source": "fireflyslime"
+    },
+    {
+      "position": 10,
+      "title": "Fireflyslime",
+      "link": "https://www.linkedin.com/company/fireflyslime",
+      "redirect_link": "https://www.google.comhttps://www.linkedin.com/company/fireflyslime",
+      "displayed_link": "10+ followers",
+      "favicon": "https://serpapi.com/searches/65f61c121e803f6b7ec3f42c/images/fe3301689f64fac07b4b03683e89b4ece83a8c6a5e904ff98227df4cafa74103.png",
+      "snippet": "Fireflyslime was founded from a true passion and hobby for the creativity that slime inspires and is one of the first slime companies established in 2017 ...",
+      "snippet_highlighted_words": [
+        "Fireflyslime",
+        "of the"
+      ],
+      "source": "LinkedIn · Fireflyslime"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Firefly slime seattle washington united states reviews",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&gl=us&hl=en&q=Firefly+slime+seattle+washington+united+states+reviews&sa=X&ved=2ahUKEwjbnqav6fmEAxUI1TQHHSwMDQIQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Firefly+slime+seattle+washington+united+states+reviews"
+    },
+    {
+      "block_position": 1,
+      "query": "top 10 best slime shops",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&gl=us&hl=en&q=Top+10+best+slime+shops&sa=X&ved=2ahUKEwjbnqav6fmEAxUI1TQHHSwMDQIQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Top+10+best+slime+shops"
+    },
+    {
+      "block_position": 1,
+      "query": "kawaii slime company",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&gl=us&hl=en&q=Kawaii+Slime+Company&sa=X&ved=2ahUKEwjbnqav6fmEAxUI1TQHHSwMDQIQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kawaii+Slime+Company"
+    },
+    {
+      "block_position": 1,
+      "query": "peachybbies slime",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&gl=us&hl=en&q=Peachybbies+slime&sa=X&ved=2ahUKEwjbnqav6fmEAxUI1TQHHSwMDQIQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Peachybbies+slime"
+    },
+    {
+      "block_position": 1,
+      "query": "slime shops nearby",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&gl=us&hl=en&q=Slime+shops+nearby&sa=X&ved=2ahUKEwjbnqav6fmEAxUI1TQHHSwMDQIQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Slime+shops+nearby"
+    },
+    {
+      "block_position": 1,
+      "query": "online slime shops",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&gl=us&hl=en&q=Online+slime+shops&sa=X&ved=2ahUKEwjbnqav6fmEAxUI1TQHHSwMDQIQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Online+slime+shops"
+    },
+    {
+      "block_position": 1,
+      "query": "seattle slime",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&gl=us&hl=en&q=Seattle+slime&sa=X&ved=2ahUKEwjbnqav6fmEAxUI1TQHHSwMDQIQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Seattle+slime"
+    },
+    {
+      "block_position": 1,
+      "query": "momo slimes",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&gl=us&hl=en&q=Momo+slimes&sa=X&ved=2ahUKEwjbnqav6fmEAxUI1TQHHSwMDQIQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Momo+slimes"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Firefly+Slime+Seattle%2C+Washington%2C+United+States&oq=Firefly+Slime+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Firefly+Slime+Seattle%2C+Washington%2C+United+States&oq=Firefly+Slime+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=Firefly+Slime+Seattle%2C+Washington%2C+United+States&oq=Firefly+Slime+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=Firefly+Slime+Seattle%2C+Washington%2C+United+States&oq=Firefly+Slime+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=Firefly+Slime+Seattle%2C+Washington%2C+United+States&oq=Firefly+Slime+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Firefly+Slime+Seattle%2C+Washington%2C+United+States&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Firefly+Slime+Seattle%2C+Washington%2C+United+States&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Firefly+Slime+Seattle%2C+Washington%2C+United+States&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Firefly+Slime+Seattle%2C+Washington%2C+United+States&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Firefly+Slime+Seattle%2C+Washington%2C+United+States&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Firefly+Slime+Seattle%2C+Washington%2C+United+States&start=40"
+    }
+  }
+}

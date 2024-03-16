@@ -1,0 +1,225 @@
+{
+  "search_metadata": {
+    "id": "65f61c1c2f542e4ef9bfb794",
+    "processed_at": "2024-03-16 22:24:28 UTC",
+    "google_url": "https://www.google.com/search?q=Phin+Coffee+Seattle%2C+Washington%2C+United+States&oq=Phin+Coffee+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&sourceid=chrome&ie=UTF-8"
+  },
+  "knowledge_graph": {
+    "title": "Phin Vietnamese Coffee & Etc.",
+    "type": "Coffee shop",
+    "address": "913 S Jackson St Ste D, Seattle, WA 98104",
+    "website": "http://phinseattle.com/",
+    "place_id": "ChIJw6_CI99rkFQRCpeH3MMW8PM",
+    "local_map": {
+      "link": "https://www.google.com/maps/place/Phin+Vietnamese+Coffee+%26+Etc./@47.5988444,-122.3197724,15z/data=!4m2!3m1!1s0x0:0xf3f016c3dc87970a?sa=X&ved=2ahUKEwigzbq06fmEAxV3F1kFHUbTABYQ_BJ6BAgSEAA&hl=en&gl=us",
+      "gps_coordinates": {
+        "latitude": 47.5988444,
+        "longitude": -122.3197724,
+        "altitude": 15
+      }
+    },
+    "profiles": [
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/phin.seattle"
+      }
+    ],
+    "rating": 4.7,
+    "review_count": 195,
+    "reviews_from_the_web": [
+      {
+        "company": "HappyCow",
+        "link": "https://www.happycow.net/reviews/phin-seattle-269121",
+        "rating": 5,
+        "review_count": 3
+      }
+    ],
+    "links": {
+      "order_online": "https://food.google.com/chooseprovider?restaurantId=/g/11jj7d6nmv&g2lbs=AIQllVz_3mFmTRKd5g0MoFe03CbreCMK-pXJg71Qe9N2nvleEh9WyHb9lcwF6vIjT35sAKbin5tWiWK69G-psJqKxa7H4LCRmt2VLqvhMC-tZKP4b1sWYm0%3D&hl=en-US&gl=us&ssta=1&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=search&gei=Hhz2ZaDGF_eu5NoPxqaDsAE&ei=Hhz2ZaDGF_eu5NoPxqaDsAE&fo_s=OA,SOE&opi=89978449"
+    },
+    "hours": {
+      "monday": {
+        "opens": "8 AM",
+        "closes": "1 PM"
+      },
+      "tuesday": {
+        "opens": "Closed",
+        "closes": "Closed"
+      },
+      "wednesday": {
+        "opens": "8 AM",
+        "closes": "3 PM"
+      },
+      "thursday": {
+        "opens": "8 AM",
+        "closes": "3 PM"
+      },
+      "friday": {
+        "opens": "8 AM",
+        "closes": "3 PM"
+      },
+      "saturday": {
+        "opens": "8 AM",
+        "closes": "5 PM"
+      },
+      "sunday": {
+        "opens": "8 AM",
+        "closes": "5 PM"
+      }
+    },
+    "merchant_description": "\"Phin little saigon cafe is a quiet rest stop nestled in Seattle's historic Little Saigon neighborhood. Vietnamese coffee, espresso, pastries, fresh Viet waffles in a tranquil space.\"",
+    "user_reviews": [
+      {
+        "summary": "Friendly staff, small space with simple menu featuring a few drinks and treats.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s101227412526808451703!2s0x54906bdf23c2afc3:0xf3f016c3dc87970a?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Hen Chung"
+        }
+      },
+      {
+        "summary": "The food, coffee, ambiance, and music made for a very peaceful morning.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s104134176040954998494!2s0x54906bdf23c2afc3:0xf3f016c3dc87970a?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Victor Yuan"
+        }
+      },
+      {
+        "summary": "Yummy, fresh, eco friendly locally owned shop bringing flavors from childhood.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s107447635166257323794!2s0x54906bdf23c2afc3:0xf3f016c3dc87970a?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Kathleen Nguyen"
+        }
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Hello Em Việt Coffee & Roastery",
+        "extensions": [
+          "Coffee shop"
+        ]
+      },
+      {
+        "name": "Hood Famous Cafe + Bar",
+        "extensions": [
+          "Cafe"
+        ]
+      },
+      {
+        "name": "Queen Anne Ca Phe",
+        "extensions": [
+          "Vietnamese"
+        ]
+      },
+      {
+        "name": "Tougo Coffee Neighborhood cafe serving wine and beer",
+        "extensions": [
+          "Cafe"
+        ]
+      },
+      {
+        "name": "Coffeeholic House",
+        "extensions": [
+          "Coffee shop"
+        ]
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Phin",
+      "link": "https://www.phinseattle.com/",
+      "displayed_link": "https://www.phinseattle.com",
+      "snippet": "classic strong coffee with condensed milk, available with our condensed oat milk! $5.00 - $6.50.",
+      "source": "phinseattle.com"
+    },
+    {
+      "position": 2,
+      "title": "PHIN - 220 Photos & 117 Reviews - Yelp",
+      "link": "https://www.yelp.com/biz/phin-seattle",
+      "displayed_link": "https://www.yelp.com › Yelp › Food › Desserts › Phin",
+      "snippet": "Phin, 913 S Jackson St, Ste D, Seattle, WA 98104, 220 Photos, Mon - 8:00 am - 1:00 pm, Tue - Closed, Wed - 8:00 am - 3:00 pm, Thu - 8:00 am - 3:00 pm, ...",
+      "source": "Yelp",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "reviews": 117
+          }
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Phin (@phin.seattle) • Instagram photos and videos",
+      "link": "https://www.instagram.com/phin.seattle/",
+      "displayed_link": "2.7K+ followers",
+      "snippet": "phin.seattle. Follow. Message. Phin. little saigon cafe. Sibling to @dragonfly.goods. 913 S Jackson St Ste D, Seattle, Washington 98104. phinseattle.com.",
+      "source": "Instagram · phin.seattle"
+    },
+    {
+      "position": 4,
+      "title": "Phin Is More than a Coffee Shop — It's a Journey From ...",
+      "link": "https://seattle.eater.com/22445748/phin-seattle-vietnamese-coffee-influences",
+      "displayed_link": "https://seattle.eater.com › phin-seattle-vietnamese-coffee-...",
+      "snippet": "Phin officially opened in October 2020, nestled in a cozy 620-square-foot retail suite of an apartment building in Seattle's Little Saigon ...",
+      "source": "Eater Seattle"
+    },
+    {
+      "position": 5,
+      "title": "Home | Phin",
+      "link": "https://www.phinseattle.com/home",
+      "displayed_link": "https://www.phinseattle.com › ...",
+      "snippet": "Location & Hours. 913 South Jackson Street Ste D Seattle, WA 98104. Entrance on 10th Ave S phinseattle@gmail.com or DM us on IG! Get directions. Monday 8:00 am ...",
+      "source": "phinseattle.com"
+    },
+    {
+      "position": 6,
+      "title": "Aroom Coffee",
+      "link": "https://www.aroomcoffee.com/",
+      "displayed_link": "https://www.aroomcoffee.com",
+      "snippet": "Pasteurized Egg Yolks, Condense Milk and Traditional Phin Brewed Vietnamese Coffee. Viet Tradition coffee with an airy, creamy, meringue-like taste.",
+      "source": "aroomcoffee.com"
+    },
+    {
+      "position": 7,
+      "title": "Phin, 913 S Jackson St, Ste D, Seattle, WA, Coffee Shops",
+      "link": "https://www.mapquest.com/us/washington/phin-427957478",
+      "displayed_link": "https://www.mapquest.com › ... › Washington › Seattle",
+      "snippet": "Get directions, reviews and information for Phin in Seattle, WA. You can also find other Coffee Shops on MapQuest.",
+      "source": "MapQuest"
+    },
+    {
+      "position": 8,
+      "title": "Phin Vietnamese Coffee & Etc.",
+      "link": "https://intentionalist.com/b/phin-vietnamese-coffee-etc/",
+      "displayed_link": "https://intentionalist.com › phin-vietnamese-coffee-etc",
+      "snippet": "CafeCoffee, Tea & Juice · 913 S Jackson St, Suite D Seattle, Washington 98104, US · Check-in to your favorite business!Check-in · Visit Website.",
+      "source": "Intentionalist"
+    },
+    {
+      "position": 9,
+      "title": "Phin - Seattle Washington Coffee & Tea",
+      "link": "https://www.happycow.net/reviews/phin-seattle-269121",
+      "displayed_link": "https://www.happycow.net › ... › Seattle",
+      "snippet": "Venue map for Phin · © OpenStreetMap contributors. 913 S Jackson St, Ste D (at 10th Ave S), Seattle, Washington, USA, 98104. Wednesday. 8:00am - 4:00pm.",
+      "source": "HappyCow",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5,
+            "reviews": 3
+          }
+        }
+      }
+    },
+    {
+      "position": 10,
+      "title": "Phin in Seattle - Restaurant reviews",
+      "link": "https://restaurantguru.com/Phin-Seattle",
+      "displayed_link": "https://restaurantguru.com › USA › Seattle, Washington",
+      "snippet": "Amazing coffee and treats (pandan waffles!), friendly and sincere service, and a charming atmosphere. I love coming here. All opinions. Address.",
+      "source": "Restaurant Guru"
+    }
+  ]
+}

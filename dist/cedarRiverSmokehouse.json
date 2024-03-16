@@ -1,0 +1,255 @@
+{
+  "search_metadata": {
+    "id": "65f61c1a66d81ffe12021e4b",
+    "processed_at": "2024-03-16 22:24:26 UTC",
+    "google_url": "https://www.google.com/search?q=Cedar+River+Smokehouse+Seattle%2C+Washington%2C+United+States&oq=Cedar+River+Smokehouse+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&sourceid=chrome&ie=UTF-8"
+  },
+  "knowledge_graph": {
+    "title": "Cedar River BBQ",
+    "type": "Barbecue restaurant",
+    "address": "304 Wells Ave S, Renton, WA 98057",
+    "website": "https://www.cedarriverbbq.com/",
+    "place_id": "ChIJQTcvOqtCkFQRyHCk8yJsXTw",
+    "local_map": {
+      "link": "https://www.google.com/maps/place/Cedar+River+BBQ/@47.47944,-122.205239,15z/data=!4m2!3m1!1s0x0:0x3c5d6c22f3a470c8?sa=X&ved=2ahUKEwjH98ey6fmEAxVkRTABHZ5gCTQQ_BJ6BAgQEAA",
+      "gps_coordinates": {
+        "latitude": 47.47944,
+        "longitude": -122.205239,
+        "altitude": 15
+      }
+    },
+    "profiles": [
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/cedarriverbbq"
+      },
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/cedarriverbbq/"
+      }
+    ],
+    "rating": 4.3,
+    "review_count": 779,
+    "reviews_from_the_web": [
+      {
+        "company": "Facebook",
+        "link": "https://www.facebook.com/CedarRiverSmokehouse/",
+        "rating": 4.2,
+        "review_count": 123
+      },
+      {
+        "company": "Uber Eats",
+        "link": "https://www.ubereats.com/store/cedar-river-bbq/ozYynxIqR5yORvDRZ9-UdA",
+        "rating": 4.4,
+        "review_count": 49
+      }
+    ],
+    "links": {},
+    "hours": {
+      "monday": {
+        "opens": "11 AM",
+        "closes": "8 PM"
+      },
+      "tuesday": {
+        "opens": "11 AM",
+        "closes": "8 PM"
+      },
+      "wednesday": {
+        "opens": "11 AM",
+        "closes": "8 PM"
+      },
+      "thursday": {
+        "opens": "11 AM",
+        "closes": "8 PM"
+      },
+      "friday": {
+        "opens": "11 AM",
+        "closes": "9 PM"
+      },
+      "saturday": {
+        "opens": "11 AM",
+        "closes": "9 PM"
+      },
+      "sunday": {
+        "opens": "12",
+        "closes": "8 PM"
+      }
+    },
+    "phone": "(425) 255-4820",
+    "merchant_description": "\"Cedar River BBQ has been a part of the Renton community since 2000, serving up some of the best barbecues in town. We are located in the heart of downtown Renton and pride ourselves on being a terrific lunch and dinner spot for individuals working there. Our menu offers traditional and non-traditional Texas Style Barbecue, using the best meats and ingredients to create a mouth-watering dining experience. Everything is slow-smoked to perfection, from brisket to ribs and pulled pork.\"",
+    "user_reviews": [
+      {
+        "summary": "You'll find delicious food, superior service, great music and caring staff.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s109733500335339028097!2s0x549042ab3a2f3741:0x3c5d6c22f3a470c8?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Kallysta G"
+        }
+      },
+      {
+        "summary": "Super friendly and kind employees, tasty food with good portion.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s115235807056581867343!2s0x549042ab3a2f3741:0x3c5d6c22f3a470c8?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "sh5032001"
+        }
+      },
+      {
+        "summary": "A spicy Tangy sauce and perfectly cooked meat, and the beans were great too.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s101423691125911412060!2s0x549042ab3a2f3741:0x3c5d6c22f3a470c8?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Michael Schuett"
+        }
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Clyde's Southern Wood Fired Barbeque",
+        "extensions": [
+          "Barbecue"
+        ]
+      },
+      {
+        "name": "BBQ Pete's",
+        "extensions": [
+          "Barbecue"
+        ]
+      },
+      {
+        "name": "Famous Dave's Bar-B-Que",
+        "extensions": [
+          "Barbecue"
+        ]
+      },
+      {
+        "name": "Emma's BBQ",
+        "extensions": [
+          "Barbecue"
+        ]
+      },
+      {
+        "name": "L&L Hawaiian Barbecue",
+        "extensions": [
+          "Hawaiian"
+        ]
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Home | Cedar River BBQ | 304 Wells Ave S., Renton WA",
+      "link": "https://www.cedarriverbbq.com/",
+      "displayed_link": "https://www.cedarriverbbq.com",
+      "snippet": "Cedar River BBQ has been a staple in downtown Renton for over 20 years, serving up some of the best barbecue in town. Our menu features both traditional and ...",
+      "source": "Cedar River BBQ"
+    },
+    {
+      "position": 2,
+      "title": "CEDAR RIVER SMOKEHOUSE BARBECUE - 199 Photos ...",
+      "link": "https://www.yelp.com/biz/cedar-river-smokehouse-barbecue-renton",
+      "displayed_link": "https://www.yelp.com › biz › cedar-river-smokehouse-ba...",
+      "snippet": "Cedar River Smokehouse Barbecue · Map · 304 Wells Ave S Renton, WA 98057. Directions · (425) 255-4820. Call Now · Order Takeout or Delivery. Start Order · Full menu.",
+      "source": "Yelp",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.7,
+            "reviews": 467
+          }
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Cedar River Smokehouse",
+      "link": "https://www.facebook.com/CedarRiverSmokehouse/",
+      "displayed_link": "810+ followers",
+      "snippet": "We are located down at 304 Wells Ave S Renton, Washington! Come in for some barbecue today!",
+      "source": "Facebook · Cedar River Smokehouse",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.2
+          }
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "CEDAR RIVER SMOKE HOUSE BARBECUE, Renton",
+      "link": "https://www.tripadvisor.com/Restaurant_Review-g58704-d490327-Reviews-Cedar_River_Smoke_House_Barbecue-Renton_Washington.html",
+      "displayed_link": "https://www.tripadvisor.com › ... › Renton",
+      "snippet": "Location and contact. 304 Wells Ave S, Renton, WA 98057-2714.",
+      "source": "Tripadvisor",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4,
+            "reviews": 123
+          }
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "CEDAR RIVER SMOKEHOUSE BARBECUE - 186 Photos ...",
+      "link": "https://www.yelp.com/biz/cedar-river-smokehouse-barbecue-renton?start=160",
+      "displayed_link": "https://www.yelp.com › biz › cedar-river-smokehouse-ba...",
+      "snippet": "Cedar River Smokehouse Barbecue · Map · 304 Wells Ave S Renton, WA 98057. Directions · (425) 255-4820. Call Now · Order Takeout or Delivery. Start Order · Full menu.",
+      "source": "Yelp",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.7,
+            "reviews": 464
+          }
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Cedar River Smokehouse Restaurant - Renton, WA",
+      "link": "https://www.opentable.com/restaurant/profile/207655",
+      "displayed_link": "https://www.opentable.com › ... › Seattle › Renton",
+      "snippet": "Additional information ; Cuisines. American ; Phone number. (425) 255-4820 ; Website. http://cedarriversmokehouse.com/ ; Location. 304 Wells Ave S., Renton, WA ...",
+      "source": "OpenTable"
+    },
+    {
+      "position": 7,
+      "title": "Cedar River BBQ | Renton WA",
+      "link": "https://www.facebook.com/CedarRiverBBQ/",
+      "displayed_link": "370+ followers",
+      "snippet": "BBQ restaurant located in Downtown Renton! Stop by or call in your order today! 󱙶.",
+      "source": "Facebook · Cedar River BBQ",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.2
+          }
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "Cedar River Smoke House Catering in Renton, WA",
+      "link": "https://www.ezcater.com/catering/cedar-river-smoke-house-renton",
+      "displayed_link": "https://www.ezcater.com › catering › cedar-river-smoke-...",
+      "snippet": "Get office catering delivered by Cedar River Smoke House in Renton, WA. Check out the menu, reviews, and on-time delivery ratings.",
+      "source": "ezCater"
+    },
+    {
+      "position": 9,
+      "title": "Review of Cedar River Smoke House Barbecue - Renton",
+      "link": "https://www.tripadvisor.co.nz/ShowUserReviews-g58704-d490327-r672155193-Cedar_River_Smoke_House_Barbecue-Renton_Washington.html",
+      "displayed_link": "https://www.tripadvisor.co.nz › ShowUserReviews-g58...",
+      "snippet": "If you like barbecue, this is a great place. Decor is minimal. We usually get the lunch portion (one side item) for dinner since the portions are large.",
+      "source": "tripadvisor.co.nz",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 2
+          }
+        }
+      }
+    }
+  ]
+}

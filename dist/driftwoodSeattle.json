@@ -1,0 +1,211 @@
+{
+  "search_metadata": {
+    "id": "65f60feb1988e515112fc143",
+    "processed_at": "2024-03-16 21:32:27 UTC",
+    "google_url": "https://www.google.com/search?q=Driftwood+Seattle+Seattle%2C+Washington%2C+United+States&oq=Driftwood+Seattle+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&sourceid=chrome&ie=UTF-8"
+  },
+  "knowledge_graph": {
+    "title": "Driftwood",
+    "type": "Pacific Northwest restaurant (US)",
+    "address": "2722 Alki Ave SW, Seattle, WA 98116",
+    "website": "http://driftwoodseattle.com/",
+    "place_id": "ChIJSxz2Q89BkFQRy5inek8Jwfg",
+    "local_map": {
+      "link": "https://www.google.com/maps/place/Driftwood/@47.5790774,-122.4103885,15z/data=!4m2!3m1!1s0x0:0xf8c1094f7aa798cb?sa=X&ved=2ahUKEwjIvInl3fmEAxWIle4BHT0DA4AQ_BJ6BAgQEAA&hl=en&gl=us",
+      "gps_coordinates": {
+        "latitude": 47.5790774,
+        "longitude": -122.4103885,
+        "altitude": 15
+      }
+    },
+    "rating": 4.6,
+    "review_count": 149,
+    "links": {
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/TT7jL7_EEzw?source=pa&opi=89978449&hl=en-US&gei=7w_2ZYiJB4irur8PvYaMgAg&sourceurl=https://www.google.com/search?oq%3DDriftwood%2BSeattle%2BSeattle,%2BWashington,%2BUnited%2BStates%26q%3DDriftwood%2BSeattle%2BSeattle,%2BWashington,%2BUnited%2BStates%26hl%3Den%26gl%3Dus"
+    },
+    "hours": {
+      "monday": {
+        "opens": "5",
+        "closes": "9 PM"
+      },
+      "tuesday": {
+        "opens": "Closed",
+        "closes": "Closed"
+      },
+      "wednesday": {
+        "opens": "Closed",
+        "closes": "Closed"
+      },
+      "thursday": {
+        "opens": "5",
+        "closes": "9 PM"
+      },
+      "friday": {
+        "opens": "5",
+        "closes": "9 PM"
+      },
+      "saturday": {
+        "opens": "5",
+        "closes": "9 PM"
+      },
+      "sunday": {
+        "opens": "5",
+        "closes": "9 PM"
+      }
+    },
+    "phone": "(206) 420-7381",
+    "user_reviews": [
+      {
+        "summary": "The food, the drinks, the ambience, the service were all 10/10!",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s114741847476157373619!2s0x549041cf43f61c4b:0xf8c1094f7aa798cb?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Nicole Kendall"
+        }
+      },
+      {
+        "summary": "The fish was cooked perfectly - succulent meat and crispy skin.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s114195993251087999854!2s0x549041cf43f61c4b:0xf8c1094f7aa798cb?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Sara Wainwright-Feldman"
+        }
+      },
+      {
+        "summary": "I ordered the pork chop as an entree and again the portion size was great.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s107561142316814102185!2s0x549041cf43f61c4b:0xf8c1094f7aa798cb?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Caralina Casperson"
+        }
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Harry's Beach House",
+        "extensions": [
+          "Restaurant"
+        ]
+      },
+      {
+        "name": "Sunfish",
+        "extensions": [
+          "Seafood"
+        ]
+      },
+      {
+        "name": "Duke's Seafood West Seattle",
+        "extensions": [
+          "Seafood"
+        ]
+      },
+      {
+        "name": "La Rustica",
+        "extensions": [
+          "Italian"
+        ]
+      },
+      {
+        "name": "Salty's on Alki Beach",
+        "extensions": [
+          "Seafood"
+        ]
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Driftwood | Beach Restaurant in Seattle, Washington",
+      "link": "https://www.driftwoodseattle.com/",
+      "displayed_link": "https://www.driftwoodseattle.com",
+      "snippet": "We are located on Alki Beach in beautiful West Seattle. We are a family owned and operated market-driven restaurant. Our menu focuses on celebrating the ...",
+      "source": "driftwoodseattle.com"
+    },
+    {
+      "position": 2,
+      "title": "Menus | Driftwood in Seattle, Washington",
+      "link": "https://www.driftwoodseattle.com/menus/",
+      "displayed_link": "https://www.driftwoodseattle.com › menus",
+      "snippet": "See the menu for Driftwood in Seattle, Washington. Open Thursday - Monday for dine-in & takeaway!",
+      "source": "driftwoodseattle.com"
+    },
+    {
+      "position": 3,
+      "title": "About | Driftwood in Seattle, Washington",
+      "link": "https://www.driftwoodseattle.com/about/",
+      "displayed_link": "https://www.driftwoodseattle.com › about",
+      "snippet": "Driftwood is a new restaurant project by husband and wife team Dan and Jackie Mallahan. Driftwood will be located at 2722 Alki Ave SW in the heart of Alki ...",
+      "source": "driftwoodseattle.com"
+    },
+    {
+      "position": 4,
+      "title": "Driftwood Restaurant (@driftwood_seattle)",
+      "link": "https://www.instagram.com/driftwood_seattle/?hl=en",
+      "displayed_link": "5.9K+ followers",
+      "snippet": "Community driven, hyper seasonal restaurant supporting the Washington State food ecosystem mountain to sound. #eatlocalfirst · #driftwoodseattle.",
+      "source": "Instagram · driftwood_seattle"
+    },
+    {
+      "position": 5,
+      "title": "Contact | Driftwood in Seattle, Washington",
+      "link": "https://www.driftwoodseattle.com/contact/",
+      "displayed_link": "https://www.driftwoodseattle.com › contact",
+      "snippet": "You can reach us by phone at (206) 420-7381 or send us a message, and we'll get back to you as soon as possible. Looking forward to hearing from you! leave this ...",
+      "source": "driftwoodseattle.com"
+    },
+    {
+      "position": 6,
+      "title": "Driftwood - 2722 Alki Ave SW, Seattle, Washington",
+      "link": "https://www.yelp.com/biz/driftwood-seattle",
+      "displayed_link": "https://www.yelp.com › ... › Restaurants › Seafood",
+      "snippet": "65 reviews and 181 photos of Driftwood \"Great little place just opened last week. Super friendly staff, and food was great!!! 1/2 dozen oysters, ...",
+      "source": "Yelp",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.3,
+            "reviews": 65
+          }
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Driftwood Seattle",
+      "link": "https://www.facebook.com/DriftwoodSeattle/",
+      "displayed_link": "140+ followers",
+      "snippet": "Community driven, farm to table restaurant supporting the local Pacific Northwest food ecosystem from mountain to sound.",
+      "source": "Facebook · Driftwood Seattle"
+    },
+    {
+      "position": 8,
+      "title": "Book Your Driftwood Reservation Now on ...",
+      "link": "https://resy.com/cities/sea/driftwood",
+      "displayed_link": "https://resy.com › cities › sea › driftwood",
+      "snippet": "Driftwood is located on Alki Beach in beautiful West Seattle. We are a family owned and operated market-driven restaurant. Our menu focuses on celebrating the ...",
+      "source": "Resy"
+    },
+    {
+      "position": 9,
+      "title": "DRIFTWOOD, Seattle - Restaurant Reviews, Photos & ...",
+      "link": "https://www.tripadvisor.com/Restaurant_Review-g60878-d25393302-Reviews-Driftwood-Seattle_Washington.html",
+      "displayed_link": "https://www.tripadvisor.com › ... › Seattle",
+      "snippet": "Driftwood, Seattle: See 3 unbiased reviews of Driftwood, rated 3.5 of 5 on Tripadvisor and ranked #2343 of 3634 restaurants in Seattle.",
+      "source": "Tripadvisor",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 3.5,
+            "reviews": 3
+          }
+        }
+      }
+    },
+    {
+      "position": 10,
+      "title": "Driftwood on Alki Is a Restaurant that Doesn't Brag—But ...",
+      "link": "https://www.seattlemet.com/eat-and-drink/2023/07/driftwood-beachfront-restaurant-alki-dan-mallahan",
+      "displayed_link": "https://www.seattlemet.com › eat-and-drink › 2023/07",
+      "snippet": "Driftwood is hard to tuck into a category: It's a fish-forward restaurant that also knows its way around meat. A waterfront destination that ...",
+      "source": "Seattle Met"
+    }
+  ]
+}

@@ -1,22 +1,33 @@
 import chalk from 'chalk';
 import debug from 'debug';
-
 debug.enable('lpkg:*');
 
-const logger = debug('lpkg');
-
-const _agentLogger = logger.extend('agent');
-export const agentLogger = {
-  log: (...args: any[]) => {
-    _agentLogger(chalk.greenBright(...args));
-  },
+type Logger = {
+  log: (...args: any[]) => void;
+  error: (...args: any[]) => void;
+  trace: (...args: any[]) => void;
 };
 
-const _userLogger = logger.extend('user');
-export const userLogger = {
-  log: (...args: any[]) => {
-    _userLogger(chalk.blueBright(...args));
+const createLogger = (
+  namespace: string,
+  colors = {
+    log: chalk.greenBright,
+    error: chalk.redBright,
+    trace: chalk.gray,
   },
+): Logger => {
+  const _logger = debug(namespace);
+  return {
+    log: (...args: any[]) => {
+      _logger(colors.log(...args));
+    },
+    error: (...args: any[]) => {
+      _logger(colors.error(...args));
+    },
+    trace: (...args: any[]) => {
+      _logger(colors.trace(...args));
+    },
+  };
 };
 
-export default logger;
+export default createLogger;

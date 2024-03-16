@@ -1,0 +1,483 @@
+{
+  "search_metadata": {
+    "id": "65f61c112c084470c0540122",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/485c398684a72cbd/65f61c112c084470c0540122.json",
+    "created_at": "2024-03-16 22:24:17 UTC",
+    "processed_at": "2024-03-16 22:24:17 UTC",
+    "google_url": "https://www.google.com/search?q=Macadons+Seattle%2C+Washington%2C+United+States&oq=Macadons+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/485c398684a72cbd/65f61c112c084470c0540122.html",
+    "total_time_taken": 0.81
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "Macadons Seattle, Washington, United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Macadons Seattle, Washington, United States",
+    "total_results": 3930,
+    "time_taken_displayed": 0.48,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "knowledge_graph": {
+    "title": "Macadons (Headquarter)",
+    "thumbnail": "https://serpapi.com/searches/65f61c112c084470c0540122/images/819da53dad9dc305c94881008d19bb312e4d44a1e27ef0118d11f86717132a97.jpg",
+    "type": "Wholesale bakery",
+    "entity_type": "local_nav",
+    "kgmid": "/g/11tc_2mrw2",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11tc_2mrw2&hl=en-US&hl=Macadons (Headquarter)",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11tc_2mrw2&q=Macadons+Seattle%2C+Washington%2C+United+States",
+    "tabs": [
+      {
+        "text": "All"
+      },
+      {
+        "text": "Perspectives",
+        "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&q=Macadons+Seattle,+Washington,+United+States&uds=AMwkrPvggOzKPxNxwl6xmtxVOSLeRGVpLxlddI9mkHN6bfw_zs--SJXWZqyx8RQlUtrCNnwPtPuXdB076_mio1nS7DCyVZOQgjFKTZIxqdSbQsoZ4JRFWGRl5aTOzkClj8wnC6mcUMMDGklHYq2HVWEJZeivl7KEAULay2fUyHKYLes9wo6tHhkSjB-Y_OkzigdbFg8Jc_KAbGS6tTAIfwsd2iK1g3ocN9rmAOYiRTdtBaBLjjjTX9H92ReG9e5htC0FYuWKCw6FcUjKwdcqCIRICw-efjnATYM4Sey_Mhe176QftERPuh8Ur_xMzIDHeUWsQsB771iJneT-6jJJTWfMZYSdVh-I4J5RoFfyjkTdrer0_PI9t_o&udm=4&prmd=imhsnvbtz&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQs6gLegQIBhAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Macadons+Seattle%2C+Washington%2C+United+States"
+      }
+    ],
+    "place_id": "ChIJvUrYgbpDkFQRTK_ijjEVpyA",
+    "website": "https://seattle.macadons.com/",
+    "directions": "https://www.google.com/maps/dir//Macadons+Seattle,+Washington,+United+States/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x549043ba81d84abd:0x20a715318ee2af4c?sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ9Rd6BAg6EAA",
+    "local_map": {
+      "image": "https://serpapi.com/searches/65f61c112c084470c0540122/images/819da53dad9dc305c94881008d19bb31a42243ad9309dec347c306f89b347d40.gif",
+      "link": "https://www.google.com/maps/place/Macadons+(Headquarter)/@47.505913,-122.3322983,15z/data=!4m2!3m1!1s0x0:0x20a715318ee2af4c?sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ_BJ6BAhAEAA",
+      "gps_coordinates": {
+        "latitude": 47.505913,
+        "longitude": -122.3322983,
+        "altitude": 15
+      }
+    },
+    "see_photos_link": "https://www.google.com/maps/uv?pb=!1s0x549043ba81d84abd:0x20a715318ee2af4c!3m1!7e115!4s/maps/place/Macadons%2BSeattle,%2BWashington,%2BUnited%2BStates/@47.5062037,-122.3325301,3a,75y,151.69h,90t/data%3D*213m4*211e1*213m2*211sNH00zraYTbMn2wFe8FIpQg*212e0*214m2*213m1*211s0x549043ba81d84abd:0x20a715318ee2af4c?sa%3DX%26ved%3D2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQpx96BAg3EAA!5sMacadons+Seattle,+Washington,+United+States+-+Google+Search!15zQ2dJZ0FRPT0&imagekey=!1e2!2sNH00zraYTbMn2wFe8FIpQg&hl=en&ved=1t:206134&ictx=111",
+    "address": "10818 Myers Way S, Seattle, WA 98168",
+    "address_links": [
+      {
+        "text": "Address",
+        "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&q=macadons+headquarter+seattle+address&ludocid=2352872632919174988&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ6BN6BAg9EAI"
+      }
+    ],
+    "raw_hours": "Closed ⋅ Opens 10 AM MonSaturdayClosedSundayClosedMonday10 AM–5 PMTuesday10 AM–5 PMWednesday10 AM–5 PMThursday10 AM–5 PMFriday10 AM–5 PMSuggest new hoursUnable to add this file. Please check that it is a valid photo.",
+    "hours": {
+      "saturday": {
+        "opens": "Closed",
+        "closes": "Closed"
+      },
+      "sunday": {
+        "opens": "Closed",
+        "closes": "Closed"
+      },
+      "monday": {
+        "opens": "10 AM",
+        "closes": "5 PM"
+      },
+      "tuesday": {
+        "opens": "10 AM",
+        "closes": "5 PM"
+      },
+      "wednesday": {
+        "opens": "10 AM",
+        "closes": "5 PM"
+      },
+      "thursday": {
+        "opens": "10 AM",
+        "closes": "5 PM"
+      },
+      "friday": {
+        "opens": "10 AM",
+        "closes": "5 PM"
+      }
+    },
+    "phone": "(206) 359-5882",
+    "phone_links": [
+      {
+        "text": "Phone",
+        "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&q=macadons+headquarter+seattle+phone&ludocid=2352872632919174988&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ6BN6BAg-EAI"
+      }
+    ],
+    "unclaimed_listing": true,
+    "people_also_search_for": [
+      {
+        "name": "Macadons",
+        "extensions": [
+          "Bakery"
+        ],
+        "image": "https://serpapi.com/searches/65f61c112c084470c0540122/images/819da53dad9dc305c94881008d19bb31a320c495afe9db765d7e1cb70091dfce191d0b7809d47eebeb2d5ed559351039.jpeg"
+      },
+      {
+        "name": "Acme Food Sales Inc",
+        "extensions": [
+          "Wholesale grocer"
+        ],
+        "image": "https://serpapi.com/searches/65f61c112c084470c0540122/images/819da53dad9dc305c94881008d19bb31a320c495afe9db765d7e1cb70091dfcef652490a2be9c76ead3d5977cfa7cf05.png"
+      },
+      {
+        "name": "Grand Central Bakery Wholesale",
+        "extensions": [
+          "Wholesale bakery"
+        ],
+        "image": "https://serpapi.com/searches/65f61c112c084470c0540122/images/819da53dad9dc305c94881008d19bb31a320c495afe9db765d7e1cb70091dfce12970b33e7e4ec1fce56f0dfcbf89d66.jpeg"
+      },
+      {
+        "name": "Manini's",
+        "extensions": [
+          "Food manufacturer"
+        ],
+        "image": "https://serpapi.com/searches/65f61c112c084470c0540122/images/819da53dad9dc305c94881008d19bb31a320c495afe9db765d7e1cb70091dfce188c56f6a7768b04f5a5490ca783a08d.jpeg"
+      },
+      {
+        "name": "Dawn Food Products, Inc",
+        "extensions": [
+          "Food manufacturer"
+        ],
+        "image": "https://serpapi.com/searches/65f61c112c084470c0540122/images/819da53dad9dc305c94881008d19bb31a320c495afe9db765d7e1cb70091dfce48ae4a5b6076c3fe78d2f997c3bdafe8.png"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&tbm=lcl&q=Macadons+(Headquarter)&rflfq=1&num=20&stick=H4sIAAAAAAAAAB1QOU7DUBBVChA1RilcpYRu9uUGNEhcwUqMKCIMDlyIE3AuTsEz0i_mP8287eZ6HFy1ooU1O8glpHq8Y6auIOGMUI8S5xiHMqfO0raiarfQbVWbWszBQa2WJVxARTSkjfAHI4HexyHKio28zbrS3IXHgUMEQxqFRG5XhHuTdLFySUpvtlLfWOHEoG9M6sZCUmB14m0lFM9dOTZbwqGBbAgRpgK7Od56FYUxe25ZINXjYEII25nKSsgRrgAhpUpuBj5LlCT_rcA43GtCXoolGWgSJoaBLmt2hMkNRaHa3YL6nLlQxTikiSAiMaU6i4lCK4giUay0CoKBHa56K0dRF3NyJ3Prz273u9s_z8v7eT5M58tyuMzTenw9vCzr99X-aTpOp-Xtcrh_nKfTx9e0fs7rwx-Iffw04wEAAA&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ6nUoAHoECEIQAQ",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAB1QOU7DUBBVChA1RilcpYRu9uUGNEhcwUqMKCIMDlyIE3AuTsEz0i_mP8287eZ6HFy1ooU1O8glpHq8Y6auIOGMUI8S5xiHMqfO0raiarfQbVWbWszBQa2WJVxARTSkjfAHI4HexyHKio28zbrS3IXHgUMEQxqFRG5XhHuTdLFySUpvtlLfWOHEoG9M6sZCUmB14m0lFM9dOTZbwqGBbAgRpgK7Od56FYUxe25ZINXjYEII25nKSsgRrgAhpUpuBj5LlCT_rcA43GtCXoolGWgSJoaBLmt2hMkNRaHa3YL6nLlQxTikiSAiMaU6i4lCK4giUay0CoKBHa56K0dRF3NyJ3Prz273u9s_z8v7eT5M58tyuMzTenw9vCzr99X-aTpOp-Xtcrh_nKfTx9e0fs7rwx-Iffw04wEAAA"
+  },
+  "related_questions": [
+    {
+      "question": "Who owns macadons?",
+      "snippet": "Your place for delicious, authentic macarons Macadons started in 2014 in White Center as a side business and grew organically over the years until co-founder, Michael Huynh, decided to leave his full-time job of 6 years to take on the business full-time in 2017.",
+      "title": "Michael Huynh",
+      "link": "https://seattle.macadons.com/#:~:text=Your%20place%20for%20delicious%2C%20authentic%20macarons&text=Macadons%20started%20in%202014%20in,business%20full%2Dtime%20in%202017.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5MMfa_iCh5INcY5JIppSOCE1DlADSJJdpUc-JocnBuQ&s",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdFlVVjBZVVEwVVdJd1RqUndXbFZITVhBeFZVcHFTRVo0VTJrNVEyaHhNbEJTWVVsclFWa3RTa2hsYkZaSVlrZDRNVzB3T0hwalRWQXhiRWxEUzFGRFNrbDZaMVo1RWhkRlVub3lXbUpQTVUxelNHZDNZbXRRTlRSeGRIbEJSUm9pUVZCWWFHMDFXWE10VFhONlMzUnljbU00VkhwMGRUTjRRMTlvZW1KSldrOXZadyIsImZjdiI6IjMiLCJlaSI6IkVSejJaYk8xTXNIZ3dia1A1NHF0eUFFIiwicWMiOiJDaWx0WVdOaFpHOXVjeUJ6WldGMGRHeGxJSGRoYzJocGJtZDBiMjRnZFc1cGRHVmtJSE4wWVhSbGN4QUFmVGZuS1Q4IiwicXVlc3Rpb24iOiJXaG8gb3ducyBtYWNhZG9ucz8iLCJsayI6IkdoRjNhRzhnYjNkdWN5QnRZV05oWkc5dWN3IiwiYnMiOiJjLVBTNFJJS3o4aFh5Q19QSzFiSVRVeE9UTW5QSzdhWDZKQXpFcFlTTEVlWDRMTGhrbkxKVHkxV2NNNHZMa25PVnloT3pja0JTeGFCZFhVeEcwbExTYWFBRkNSalVTREFDQUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdFlVVjBZVVEwVVdJd1RqUndXbFZITVhBeFZVcHFTRVo0VTJrNVEyaHhNbEJTWVVsclFWa3RTa2hsYkZaSVlrZDRNVzB3T0hwalRWQXhiRWxEUzFGRFNrbDZaMVo1RWhkRlVub3lXbUpQTVUxelNHZDNZbXRRTlRSeGRIbEJSUm9pUVZCWWFHMDFXWE10VFhONlMzUnljbU00VkhwMGRUTjRRMTlvZW1KSldrOXZadyIsImZjdiI6IjMiLCJlaSI6IkVSejJaYk8xTXNIZ3dia1A1NHF0eUFFIiwicWMiOiJDaWx0WVdOaFpHOXVjeUJ6WldGMGRHeGxJSGRoYzJocGJtZDBiMjRnZFc1cGRHVmtJSE4wWVhSbGN4QUFmVGZuS1Q4IiwicXVlc3Rpb24iOiJXaG8gb3ducyBtYWNhZG9ucz8iLCJsayI6IkdoRjNhRzhnYjNkdWN5QnRZV05oWkc5dWN3IiwiYnMiOiJjLVBTNFJJS3o4aFh5Q19QSzFiSVRVeE9UTW5QSzdhWDZKQXpFcFlTTEVlWDRMTGhrbkxKVHkxV2NNNHZMa25PVnloT3pja0JTeGFCZFhVeEcwbExTYWFBRkNSalVTREFDQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    },
+    {
+      "question": "Does Costco sell macarons?",
+      "snippet": "Costco Tipiak French Macaron Same-Day Delivery or Pickup | Instacart. Use Next and Previous buttons to navigate or jump to a slide with the slide dots.",
+      "title": "Costco Tipiak French Macaron Same-Day Delivery or Pickup",
+      "link": "https://www.instacart.com/store/costco/products/18414022#:~:text=Costco%20Tipiak%20French%20Macaron%20Same%2DDay%20Delivery%20or%20Pickup%20%7C%20Instacart&text=Use%20Next%20and%20Previous%20buttons%20to%20navigate%20or%20jump,slide%20with%20the%20slide%20dots.",
+      "displayed_link": "https://www.instacart.com › store › costco › products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGF9d846liXgeXccxUnkYhxAStiVNEr896LXISWVo8mA&s",
+      "source_logo": "https://serpapi.com/searches/65f61c112c084470c0540122/images/89c7f038c9c326951db3f7cdfdcf9dddf238e11b7d459fd938532574a44b111b.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdFlVVjBZVVEwVVdJd1RqUndXbFZITVhBeFZVcHFTRVo0VTJrNVEyaHhNbEJTWVVsclFWa3RTa2hsYkZaSVlrZDRNVzB3T0hwalRWQXhiRWxEUzFGRFNrbDZaMVo1RWhkRlVub3lXbUpQTVUxelNHZDNZbXRRTlRSeGRIbEJSUm9pUVZCWWFHMDFXWE10VFhONlMzUnljbU00VkhwMGRUTjRRMTlvZW1KSldrOXZadyIsImZjdiI6IjMiLCJlaSI6IkVSejJaYk8xTXNIZ3dia1A1NHF0eUFFIiwicWMiOiJDaWx0WVdOaFpHOXVjeUJ6WldGMGRHeGxJSGRoYzJocGJtZDBiMjRnZFc1cGRHVmtJSE4wWVhSbGN4QUFmVGZuS1Q4IiwicXVlc3Rpb24iOiJEb2VzIENvc3RjbyBzZWxsIG1hY2Fyb25zPyIsImxrIjoiR2hsa2IyVnpJR052YzNSamJ5QnpaV3hzSUcxaFkyRnliMjV6IiwiYnMiOiJjLVBTNFJJS3o4aFh5Q19QSzFiSVRVeE9UTW5QSzdhWDZKQXpFcFlTTEVlWDRMTGhrbkxKVHkxV2NNNHZMa25PVnloT3pja0JTeGFCZFhVeEcwbExTYWFBRkNSalVTREFDQUEiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJUblZYYUdOdFlVVjBZVVEwVVdJd1RqUndXbFZITVhBeFZVcHFTRVo0VTJrNVEyaHhNbEJTWVVsclFWa3RTa2hsYkZaSVlrZDRNVzB3T0hwalRWQXhiRWxEUzFGRFNrbDZaMVo1RWhkRlVub3lXbUpQTVUxelNHZDNZbXRRTlRSeGRIbEJSUm9pUVZCWWFHMDFXWE10VFhONlMzUnljbU00VkhwMGRUTjRRMTlvZW1KSldrOXZadyIsImZjdiI6IjMiLCJlaSI6IkVSejJaYk8xTXNIZ3dia1A1NHF0eUFFIiwicWMiOiJDaWx0WVdOaFpHOXVjeUJ6WldGMGRHeGxJSGRoYzJocGJtZDBiMjRnZFc1cGRHVmtJSE4wWVhSbGN4QUFmVGZuS1Q4IiwicXVlc3Rpb24iOiJEb2VzIENvc3RjbyBzZWxsIG1hY2Fyb25zPyIsImxrIjoiR2hsa2IyVnpJR052YzNSamJ5QnpaV3hzSUcxaFkyRnliMjV6IiwiYnMiOiJjLVBTNFJJS3o4aFh5Q19QSzFiSVRVeE9UTW5QSzdhWDZKQXpFcFlTTEVlWDRMTGhrbkxKVHkxV2NNNHZMa25PVnloT3pja0JTeGFCZFhVeEcwbExTYWFBRkNSalVTREFDQUEiLCJpZCI6ImZjXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Macadons",
+      "link": "https://seattle.macadons.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://seattle.macadons.com/&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQFnoECAsQAQ",
+      "displayed_link": "https://seattle.macadons.com",
+      "snippet": "Your number one source for uniquely flavored macarons and ice cream. Macadons opened in Renton in September 2022 and is located on 3rd and Wells, right under ...",
+      "snippet_highlighted_words": [
+        "Macadons"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Order Now",
+            "link": "https://seattle.macadons.com/pages/bundle-of-macarons"
+          },
+          {
+            "title": "Ice Cream Macarons",
+            "link": "https://seattle.macadons.com/collections/macadons-ice-cream-macarons"
+          },
+          {
+            "title": "6 Piece Macaron Box",
+            "link": "https://seattle.macadons.com/apps/bundles/bundle/129535"
+          },
+          {
+            "title": "Product Collections",
+            "link": "https://seattle.macadons.com/collections"
+          }
+        ]
+      },
+      "missing": [
+        "United"
+      ],
+      "must_include": {
+        "word": "United",
+        "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&q=Macadons+Seattle,+Washington,+%22United%22+States&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ5t4CegQIERAB"
+      },
+      "source": "Macadons"
+    },
+    {
+      "position": 2,
+      "title": "Shop Macadons",
+      "link": "https://seattle.macadons.com/pages/bundle-of-macarons",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://seattle.macadons.com/pages/bundle-of-macarons&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQFnoECAkQAQ",
+      "displayed_link": "https://seattle.macadons.com › pages › bundle-of-macarons",
+      "snippet": "Find us. 826 S 3rd St, Renton, WA. Hours: Tuesday: 11am-8pm. Wednesday: 11am-8pm. Thursday: 11am-8pm. Friday: 11am-10pm. Saturday: 10am-10pm. Sunday: 11am-8pm",
+      "snippet_highlighted_words": [
+        "us",
+        "WA"
+      ],
+      "missing": [
+        "United",
+        "States"
+      ],
+      "source": "Macadons"
+    },
+    {
+      "position": 3,
+      "title": "Macadons💚 Macarons & Ice Cream",
+      "link": "https://www.instagram.com/macadons/?hl=en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/macadons/%3Fhl%3Den&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQFnoECAwQAQ",
+      "displayed_link": "12.7K+ followers",
+      "favicon": "https://serpapi.com/searches/65f61c112c084470c0540122/images/9eda1007b4f3bc2eb6949ff11d87d3fb000fc15f6e0750931191939844652c73.png",
+      "snippet": "Your number one source for uniquely flavored & customizable macarons and ice cream. 826 S 3rd St Renton, WA 98057. SUPPORT AAPI SMALL BUSINESS‼️",
+      "snippet_highlighted_words": [
+        "WA"
+      ],
+      "missing": [
+        "United",
+        "States"
+      ],
+      "source": "Instagram · macadons"
+    },
+    {
+      "position": 4,
+      "title": "Products",
+      "link": "https://seattle.macadons.com/collections/all",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://seattle.macadons.com/collections/all&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQFnoECA8QAQ",
+      "displayed_link": "https://seattle.macadons.com › collections › all",
+      "thumbnail": "https://serpapi.com/searches/65f61c112c084470c0540122/images/9eda1007b4f3bc2eb6949ff11d87d3fb255430aa96448c306a36863baee907f1.jpeg",
+      "snippet": "Find us. 826 S 3rd St, Renton, WA. Hours: Tuesday: 11am-8pm. Wednesday: 11am-8pm. Thursday: 11am-8pm. Friday: 11am-10pm. Saturday: 10am-10pm. Sunday: 11am-8pm",
+      "snippet_highlighted_words": [
+        "us",
+        "WA"
+      ],
+      "missing": [
+        "United",
+        "States"
+      ],
+      "source": "Macadons"
+    },
+    {
+      "position": 5,
+      "title": "Macadons",
+      "link": "https://www.facebook.com/MacadonsSeattle/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/MacadonsSeattle/&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQFnoECGAQAQ",
+      "displayed_link": "3.8K+ followers",
+      "thumbnail": "https://serpapi.com/searches/65f61c112c084470c0540122/images/9eda1007b4f3bc2eb6949ff11d87d3fb650eed6abb2d0904376301c3c9e63f0f.jpeg",
+      "favicon": "https://serpapi.com/searches/65f61c112c084470c0540122/images/9eda1007b4f3bc2eb6949ff11d87d3fb7ed72061b28814eba22e5a497e5c88c6.png",
+      "snippet": "Macadons, Renton, Washington. 3531 likes · 2 ... 826 S Third St, Renton, WA 98057, United States ... Bring your furry companion, settle in with your laptop and be ...",
+      "snippet_highlighted_words": [
+        "Macadons",
+        "Washington",
+        "WA",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "votes": 85
+          },
+          "extensions": [
+            "Rating: 4.7",
+            "‎ 85 votes"
+          ]
+        }
+      },
+      "source": "Facebook · Macadons"
+    },
+    {
+      "position": 6,
+      "title": "MACADONS - 733 Photos & 376 Reviews",
+      "link": "https://www.yelp.com/biz/macadons-renton-3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yelp.com/biz/macadons-renton-3&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQFnoECF4QAQ",
+      "displayed_link": "https://www.yelp.com › ... › Macarons › Macadons",
+      "favicon": "https://serpapi.com/searches/65f61c112c084470c0540122/images/9eda1007b4f3bc2eb6949ff11d87d3fb27d2d13c5d15e63baa2b82cf335f4044.png",
+      "snippet": "MACADONS, 826 S 3rd St, Renton, WA 98057, 733 Photos, Mon - Closed, Tue - 11:00 am - 8:00 pm, Wed - 11:00 am - 8:00 pm, Thu - 11:00 am - 8:00 pm, ...",
+      "snippet_highlighted_words": [
+        "MACADONS",
+        "WA"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "reviews": 376
+          },
+          "extensions": [
+            "Rating: 4.8",
+            "‎ 376 reviews",
+            "‎ Price range: $$"
+          ]
+        }
+      },
+      "missing": [
+        "United"
+      ],
+      "must_include": {
+        "word": "United",
+        "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&q=Macadons+Seattle,+Washington,+%22United%22+States&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ5t4CegQIZBAB"
+      },
+      "source": "Yelp"
+    },
+    {
+      "position": 7,
+      "title": "Macadons | Ice Cream Macarons",
+      "link": "https://seattle.macadons.com/collections/macadons-ice-cream-macarons",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://seattle.macadons.com/collections/macadons-ice-cream-macarons&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQFnoECFgQAQ",
+      "displayed_link": "https://seattle.macadons.com › collections › macadons-ic...",
+      "thumbnail": "https://serpapi.com/searches/65f61c112c084470c0540122/images/9eda1007b4f3bc2eb6949ff11d87d3fbeb30bf69c5cbeb95e6dac062c2ad361b.jpeg",
+      "snippet": "Find us. 826 S 3rd St, Renton, WA. Hours: Tuesday: 11am-8pm. Wednesday: 11am-8pm. Thursday: 11am-8pm. Friday: 11am-10pm. Saturday: 10am-10pm. Sunday: 11am-8pm",
+      "snippet_highlighted_words": [
+        "us",
+        "WA"
+      ],
+      "missing": [
+        "United",
+        "States"
+      ],
+      "source": "Macadons"
+    },
+    {
+      "position": 8,
+      "title": "Macadons",
+      "link": "https://www.seattlemade.org/manufacturers/macadons/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.seattlemade.org/manufacturers/macadons/&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQFnoECFsQAQ",
+      "displayed_link": "https://www.seattlemade.org › Manufacturers",
+      "thumbnail": "https://serpapi.com/searches/65f61c112c084470c0540122/images/9eda1007b4f3bc2eb6949ff11d87d3fb1dd08e52132aee10aaf5d3c7bb31af5b.png",
+      "favicon": "https://serpapi.com/searches/65f61c112c084470c0540122/images/9eda1007b4f3bc2eb6949ff11d87d3fb675a6f0c975392fdd15a72ba0b1e41d0.png",
+      "snippet": "Macadons is a manufacturer of custom macarons and ice cream with a specialization in unique flavors. Products. Macarons, Ice Cream Macarons, Ice Cream Pints ...",
+      "snippet_highlighted_words": [
+        "Macadons"
+      ],
+      "missing": [
+        "United",
+        "States"
+      ],
+      "source": "Seattle Made"
+    },
+    {
+      "position": 9,
+      "title": "Macadons | Single Macarons",
+      "link": "https://seattle.macadons.com/collections/macadons-macarons",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://seattle.macadons.com/collections/macadons-macarons&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQFnoECFkQAQ",
+      "displayed_link": "https://seattle.macadons.com › collections › macadons-m...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpoycUKhH6jFRNKLH8Rc0QHIL_8YWFejrUOBSJwh6gXCJDEZlDSUaQ&usqp=CAE&s",
+      "snippet": "Find us. 826 S 3rd St, Renton, WA. Hours: Tuesday: 11am-8pm. Wednesday: 11am ... Us. info@macadons.com. (206) 359-5882. © 2024 Macadons. Powered by Shopify.",
+      "snippet_highlighted_words": [
+        "us",
+        "WA",
+        "Us",
+        "macadons",
+        "Macadons"
+      ],
+      "missing": [
+        "United",
+        "States"
+      ],
+      "source": "Macadons"
+    },
+    {
+      "position": 10,
+      "title": "Macadon Macarons (Half Dozen) $16.00 - Lish Food",
+      "link": "https://www.lishfood.com/products/macadon-macarons-half-dozen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lishfood.com/products/macadon-macarons-half-dozen&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQFnoECFoQAQ",
+      "displayed_link": "https://www.lishfood.com › products › macadon-macaro...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL7KZKopmJPC3gECyPw_P4S_-kQAw9xYsQ_kVpjOg05T8tTyqtDu0L&usqp=CAE&s",
+      "favicon": "https://serpapi.com/searches/65f61c112c084470c0540122/images/9eda1007b4f3bc2eb6949ff11d87d3fb645415b5b919e912fedc6cb660d9cfa3.jpeg",
+      "snippet": "Macadon Macarons (Half Dozen) $16.00. Vegetarian ... Ingredients. Macadon Macarons (Half Dozen) (Thai ... Contact Us. 2730 1st Ave S. Seattle WA, 98134 · (206) ...",
+      "snippet_highlighted_words": [
+        "Macadon",
+        "Macadon",
+        "Us",
+        "Seattle WA"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "price": 16,
+            "currency": "$"
+          },
+          "extensions": [
+            "$16.00"
+          ]
+        }
+      },
+      "missing": [
+        "Macadons",
+        "United",
+        "States"
+      ],
+      "source": "lishfood.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Macadons seattle washington united states locations",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&q=Macadons+seattle+washington+united+states+locations&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Macadons+seattle+washington+united+states+locations"
+    },
+    {
+      "block_position": 1,
+      "query": "Macadons seattle washington united states menu",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&q=Macadons+seattle+washington+united+states+menu&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Macadons+seattle+washington+united+states+menu"
+    },
+    {
+      "block_position": 1,
+      "query": "Macadons seattle washington united states prices",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&q=Macadons+seattle+washington+united+states+prices&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Macadons+seattle+washington+united+states+prices"
+    },
+    {
+      "block_position": 1,
+      "query": "Macadons seattle washington united states flavors",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&q=Macadons+seattle+washington+united+states+flavors&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Macadons+seattle+washington+united+states+flavors"
+    },
+    {
+      "block_position": 1,
+      "query": "macadons owner",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&q=Macadons+owner&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Macadons+owner"
+    },
+    {
+      "block_position": 1,
+      "query": "lady yum",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&q=Lady+Yum&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lady+Yum"
+    },
+    {
+      "block_position": 1,
+      "query": "macadons instagram",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&q=Macadons+instagram&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Macadons+instagram"
+    },
+    {
+      "block_position": 1,
+      "query": "lady yum seattle",
+      "link": "https://www.google.com/search?sca_esv=e0298e710c2fa989&q=Lady+Yum+Seattle&sa=X&ved=2ahUKEwjzgbyu6fmEAxVBcDABHWdFCxkQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lady+Yum+Seattle"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=Macadons+Seattle%2C+Washington%2C+United+States&oq=Macadons+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=Macadons+Seattle%2C+Washington%2C+United+States&oq=Macadons+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=Macadons+Seattle%2C+Washington%2C+United+States&oq=Macadons+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=Macadons+Seattle%2C+Washington%2C+United+States&oq=Macadons+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=Macadons+Seattle%2C+Washington%2C+United+States&oq=Macadons+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Macadons+Seattle%2C+Washington%2C+United+States&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Macadons+Seattle%2C+Washington%2C+United+States&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Macadons+Seattle%2C+Washington%2C+United+States&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Macadons+Seattle%2C+Washington%2C+United+States&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Macadons+Seattle%2C+Washington%2C+United+States&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Macadons+Seattle%2C+Washington%2C+United+States&start=40"
+    }
+  }
+}

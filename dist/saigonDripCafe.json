@@ -1,0 +1,222 @@
+{
+  "search_metadata": {
+    "id": "65f61c20033e94bb55161819",
+    "processed_at": "2024-03-16 22:24:32 UTC",
+    "google_url": "https://www.google.com/search?q=Saigon+Drip+Cafe+Seattle%2C+Washington%2C+United+States&oq=Saigon+Drip+Cafe+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&sourceid=chrome&ie=UTF-8"
+  },
+  "knowledge_graph": {
+    "title": "Saigon Drip Cafe",
+    "type": "Vietnamese restaurant",
+    "address": "161 S Washington St, Seattle, WA 98104",
+    "website": "http://saigondripcafe.com/",
+    "place_id": "ChIJo_oHZdxrkFQRBGQajOZ1PCU",
+    "local_map": {
+      "link": "https://www.google.com/maps/place/Saigon+Drip+Cafe/@47.6007541,-122.332347,15z/data=!4m2!3m1!1s0x0:0x253c75e68c1a6404?sa=X&ved=2ahUKEwje_um36fmEAxUJmYQIHZdhDToQ_BJ6BAgSEAA&hl=en&gl=us",
+      "gps_coordinates": {
+        "latitude": 47.6007541,
+        "longitude": -122.332347,
+        "altitude": 15
+      }
+    },
+    "rating": 5,
+    "review_count": 355,
+    "reviews_from_the_web": [
+      {
+        "company": "Grubhub",
+        "link": "https://www.grubhub.com/restaurant/saigon-drip-cafe-161-s-washington-st-seattle/6142968",
+        "rating": 4.2,
+        "review_count": 28
+      },
+      {
+        "company": "Facebook",
+        "link": "https://www.facebook.com/saigondripcafe/?locale=hi_IN",
+        "rating": 5,
+        "review_count": 2
+      },
+      {
+        "company": "DoorDash",
+        "link": "https://www.doordash.com/en-CA/store/saigon-drip-cafe-seattle-24943650/",
+        "rating": 4.9,
+        "review_count": 99
+      }
+    ],
+    "links": {},
+    "hours": {
+      "monday": {
+        "opens": "9 AM",
+        "closes": "5 PM"
+      },
+      "tuesday": {
+        "opens": "9 AM",
+        "closes": "5 PM"
+      },
+      "wednesday": {
+        "opens": "9 AM",
+        "closes": "5 PM"
+      },
+      "thursday": {
+        "opens": "9 AM",
+        "closes": "5 PM"
+      },
+      "friday": {
+        "opens": "9 AM",
+        "closes": "5 PM"
+      },
+      "saturday": {
+        "opens": "10 AM",
+        "closes": "4 PM"
+      },
+      "sunday": {
+        "opens": "10 AM",
+        "closes": "4 PM"
+      }
+    },
+    "phone": "(206) 280-1797",
+    "merchant_description": "\"Authentic Vietnamese restaurant specializing in traditional banh mi with modern culinary flare and a bold coffee experience in a warm atmosphere inspired by the vibrant street culture of Vietnam.\"",
+    "user_reviews": [
+      {
+        "summary": "Outstanding service all the staff are so nice, love love the atmosphere.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s104827744920971795464!2s0x54906bdc6507faa3:0x253c75e68c1a6404?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Jazmyn Vo"
+        }
+      },
+      {
+        "summary": "My bestie ordered the ribeye steak pho hot pot and she loves it.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s113792385737549549822!2s0x54906bdc6507faa3:0x253c75e68c1a6404?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Jimmy Huynh"
+        }
+      },
+      {
+        "summary": "We got the banh mi dip and crispy wings, and a Vietnamese coffee.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s109687341513861060558!2s0x54906bdc6507faa3:0x253c75e68c1a6404?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Emily Greenberg"
+        }
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Phở Ba",
+        "extensions": [
+          "Vietnamese"
+        ]
+      },
+      {
+        "name": "Saigon Streets",
+        "extensions": [
+          "Vietnamese"
+        ]
+      },
+      {
+        "name": "Pho Saigon Restaurant",
+        "extensions": [
+          "Vietnamese"
+        ]
+      },
+      {
+        "name": "Vietlicious",
+        "extensions": [
+          "Vietnamese"
+        ]
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Saigon Drip Cafe | Restaurant in Seattle, WA",
+      "link": "https://saigondripcafe.com/",
+      "displayed_link": "https://saigondripcafe.com",
+      "snippet": "Saigon Drip Cafe's website. Authentic Vietnamese restaurant ... Nestled in the heart of Pioneer Square, our ... Saigon Drip Cafe Location and Hours. (206) 280-1797.",
+      "source": "Saigon Drip Cafe"
+    },
+    {
+      "position": 2,
+      "title": "SAIGON DRIP CAFE - 210 Photos & 128 Reviews",
+      "link": "https://www.yelp.com/biz/saigon-drip-cafe-seattle",
+      "displayed_link": "https://www.yelp.com › ... › Saigon Drip Cafe",
+      "snippet": "Saigon Drip Cafe · Map · 161 S Washington St. Seattle, WA 98104. Pioneer Square · (206) 280-1797. Call Now · Order Takeout or Delivery. Start Order · Full menu · More ...",
+      "source": "Yelp",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "reviews": 128
+          }
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Menu",
+      "link": "https://saigondripcafe.com/menu",
+      "displayed_link": "https://saigondripcafe.com › menu",
+      "snippet": "161 South Washington Street, Seattle, WA 98104. Open now • Closes at 5PM. All hours. View menu · Order online · Instagram logo · Facebook logo. This site is ...",
+      "source": "Saigon Drip Cafe"
+    },
+    {
+      "position": 4,
+      "title": "Pioneer Square - Order Online",
+      "link": "https://saigondripcafe.com/order",
+      "displayed_link": "https://saigondripcafe.com › order",
+      "snippet": "Order online from Pioneer Square, including Breakfast, BOGO Free Wings, Bánh Mì. Get the best prices and service by ordering direct!",
+      "source": "Saigon Drip Cafe"
+    },
+    {
+      "position": 5,
+      "title": "Saigon Drip Cafe Delivery Menu | Order Online",
+      "link": "https://www.grubhub.com/restaurant/saigon-drip-cafe-161-s-washington-st-seattle/6142968",
+      "displayed_link": "https://www.grubhub.com › ... › Seattle › Downtown",
+      "snippet": "This daring fusion combines the robust Vietnamese iced coffee experience with the distinctive taste of durian, known as the \"king of fruits.\" As the strong, ...",
+      "source": "Grubhub",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.2
+          }
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Saigon Drip Cafe (@saigondripcafe)",
+      "link": "https://www.instagram.com/saigondripcafe/?hl=en",
+      "displayed_link": "3.2K+ followers",
+      "snippet": "Authentic Vietnamese Cafe specializing in traditional bánh mì and Coffee inspired by the vibrant street culture of Vietnam. M-F:9am-5. Sat-Sun:10am-4.",
+      "source": "Instagram · saigondripcafe"
+    },
+    {
+      "position": 7,
+      "title": "Saigon Drip Cafe | Contact Us",
+      "link": "https://saigondripcafe.com/contact-us",
+      "displayed_link": "https://saigondripcafe.com › contact-us",
+      "snippet": "Saigon Drip Cafe Location and Hours. (206) 280-1797. 161 South Washington Street, Seattle, WA 98104. Open now • Closes at 5PM. All hours. View menu · Order ...",
+      "source": "Saigon Drip Cafe"
+    },
+    {
+      "position": 8,
+      "title": "Saigon Drip Cafe",
+      "link": "https://intentionalist.com/b/saigon-drip-cafe/",
+      "displayed_link": "https://intentionalist.com › saigon-drip-cafe",
+      "snippet": "Saigon Drip Cafe serves freshly brewed Vietnamese coffee alongside mouthwatering bánh mì sandwiches and noodle dishes. The vibrant Pioneer Square spot ...",
+      "source": "Intentionalist"
+    },
+    {
+      "position": 9,
+      "title": "Saigon Drip Cafe",
+      "link": "https://www.facebook.com/saigondripcafe/?locale=hi_IN",
+      "displayed_link": "650+ followers",
+      "snippet": "Saigon Drip Cafe, Pioneer Square Seattle में हैं. ... Once upon a time, in the bustling streets of Seattle ... 161 S Washington St, Seattle, WA. 12 लोगों ...",
+      "source": "Facebook · Saigon Drip Cafe",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "search_metadata": {
+    "id": "65f61c14c90e0a9e9fe8d3b2",
+    "processed_at": "2024-03-16 22:24:20 UTC",
+    "google_url": "https://www.google.com/search?q=Story+Cafe+Bellevue+Seattle%2C+Washington%2C+United+States&oq=Story+Cafe+Bellevue+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&sourceid=chrome&ie=UTF-8"
+  },
+  "knowledge_graph": {
+    "title": "Story Coffee Bellevue",
+    "type": "Cafe",
+    "address": "11011 NE 9th St B, Bellevue, WA 98004",
+    "website": "https://story-coffee.square.site/",
+    "place_id": "ChIJ8fAu39FtkFQRUx2TySkBfR4",
+    "local_map": {
+      "link": "https://www.google.com/maps/place/Story+Coffee+Bellevue/@47.6177901,-122.1923243,15z/data=!4m2!3m1!1s0x0:0x1e7d0129c9931d53?sa=X&ved=2ahUKEwilsPqv6fmEAxWlMDQIHX3mCCwQ_BJ6BAgREAA",
+      "gps_coordinates": {
+        "latitude": 47.6177901,
+        "longitude": -122.1923243,
+        "altitude": 15
+      }
+    },
+    "rating": 4.4,
+    "review_count": 113,
+    "links": {},
+    "hours": {
+      "monday": {
+        "opens": "7 AM",
+        "closes": "4 PM"
+      },
+      "tuesday": {
+        "opens": "7 AM",
+        "closes": "6 PM"
+      },
+      "wednesday": {
+        "opens": "7 AM",
+        "closes": "6 PM"
+      },
+      "thursday": {
+        "opens": "7 AM",
+        "closes": "6 PM"
+      },
+      "friday": {
+        "opens": "7 AM",
+        "closes": "6 PM"
+      },
+      "saturday": {
+        "opens": "8 AM",
+        "closes": "9 PM"
+      },
+      "sunday": {
+        "opens": "8 AM",
+        "closes": "6 PM"
+      }
+    },
+    "phone": "(425) 598-2185",
+    "merchant_description": "\"Our mission is to create an inclusive and welcoming space dedicated to gathering together while serving ethically sourced quality drinks.\"",
+    "user_reviews": [
+      {
+        "summary": "Loved the vibe of the place as well as the selection of beverages/ sandwiches.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s114006692729992133328!2s0x54906dd1df2ef0f1:0x1e7d0129c9931d53?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Subhasish Bhattacharya"
+        }
+      },
+      {
+        "summary": "Ordered a Black Rose Latte, Butter Croissant, Mochas, and a Banana Bread.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s113529744541104049869!2s0x54906dd1df2ef0f1:0x1e7d0129c9931d53?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Kaushik Atchuta"
+        }
+      },
+      {
+        "summary": "It's either overpriced or the staff are hustling customers here.",
+        "link": "https://www.google.com/maps/reviews/data=!4m5!14m4!1m3!1m2!1s105855147638782548246!2s0x54906dd1df2ef0f1:0x1e7d0129c9931d53?ved=1t:31295&ictx=111",
+        "user": {
+          "name": "Jeremy Hawkins"
+        }
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Cafe Aloe",
+        "extensions": [
+          "Coffee shop"
+        ]
+      },
+      {
+        "name": "Capital One Café",
+        "extensions": [
+          "Coffee shop"
+        ]
+      },
+      {
+        "name": "Third Culture Coffee",
+        "extensions": [
+          "Coffee shop"
+        ]
+      },
+      {
+        "name": "Caffe Ladro - Bellevue",
+        "extensions": [
+          "Coffee shop"
+        ]
+      },
+      {
+        "name": "Café Cesura",
+        "extensions": [
+          "Coffee shop"
+        ]
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "STORY COFFEE & TEA - 160 Photos & 37 Reviews",
+      "link": "https://www.yelp.com/biz/story-coffee-and-tea-bellevue",
+      "displayed_link": "https://www.yelp.com › ... › Story Coffee & Tea",
+      "snippet": "Story Coffee & Tea, 11011 NE 9th St, Bellevue, WA 98004, 160 Photos, Mon - 7:00 am - 4:00 pm, Tue - 7:00 am - 6:00 pm, Wed - 7:00 am - 6:00 pm, Thu - 7:00 ...",
+      "source": "Yelp",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.3,
+            "reviews": 37
+          }
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Story Coffee Bellevue",
+      "link": "https://maps.apple.com/place?auid=10358618891830997046&lsp=9902",
+      "displayed_link": "https://maps.apple.com › place",
+      "snippet": "Website. story-coffee.square.site · Phone. +1 (425) 598-2185 · Address. 11011 NE Ninth St. Bellevue, WA 98004. United States. More on Yelp · Claim This Place.",
+      "source": "Apple"
+    },
+    {
+      "position": 3,
+      "title": "Story Coffee: Order Online",
+      "link": "https://story-coffee.square.site/",
+      "displayed_link": "https://story-coffee.square.site",
+      "snippet": "By providing your phone number/email, you agree to receive order updates via text or email from Square and our other partners on our behalf. Subscribe.",
+      "source": "Square"
+    },
+    {
+      "position": 4,
+      "title": "New Cafe in Bellevue Story Coffee & Tea - TikTok",
+      "link": "https://www.tiktok.com/@tinyhangrytiff/video/7290721335070756139",
+      "displayed_link": "18.6K+ views · 5 months ago",
+      "snippet": "New Cafe in Bellevue Story Coffee & Tea #tinyhangrytiff #seattlefoodie #bellevuecafe #seattlecafe #coffee #bellevuecoffee #cafevibes # ...",
+      "source": "TikTok · tinyhangrytiff"
+    },
+    {
+      "position": 5,
+      "title": "Story Coffee & Tea - CLOSED, 11011 NE 9th St, Bellevue, ...",
+      "link": "https://www.mapquest.com/us/washington/story-coffee-tea-369445365",
+      "displayed_link": "https://www.mapquest.com › ... › Washington › Bellevue",
+      "snippet": "Get more information for Story Coffee & Tea in Bellevue, WA. See reviews, map, get the address, and find directions.",
+      "source": "MapQuest"
+    },
+    {
+      "position": 6,
+      "title": "Story Coffee Bellevue - Bellevue Restaurants & Happy Hours",
+      "link": "http://bellevue.com/restaurant_bar.php?id=2160",
+      "displayed_link": "http://bellevue.com › restaurant_bar",
+      "snippet": "Story Coffee Bellevue is a cozy cafe located in downtown Bellevue at Alley 111 next to Elements Bellevue. ... coffee, Story Coffee Bellevue is the perfect spot.",
+      "source": "Bellevue.com"
+    },
+    {
+      "position": 7,
+      "title": "Story Coffee & Tea, Bellevue - WA",
+      "link": "https://maps.roadtrippers.com/us/bellevue-wa/food-drink/story-coffee-tea",
+      "displayed_link": "https://maps.roadtrippers.com › US › Washington",
+      "snippet": "Story Coffee & Tea. 33 ... Learn more about this business on Yelp. 11011 NE 9th St Bellevue, Washington, USA ... Road trip ideas by state · National parks · Famous ...",
+      "source": "Roadtrippers"
+    },
+    {
+      "position": 8,
+      "title": "Coffee Shop Bellevue, WA - Last Updated March 2024",
+      "link": "https://www.yelp.com/search?find_desc=Coffee+Shop&find_loc=Bellevue%2C+WA",
+      "displayed_link": "https://www.yelp.com › Yelp › Food › Coffee Shop",
+      "snippet": "Top 10 Best Coffee Shop in Bellevue, WA - March 2024 - Yelp - Story Coffee & Tea, Bellden Cafe, Five Stones Coffee Company, Coffeeholic House, Copper Kettle ...",
+      "source": "Yelp"
+    },
+    {
+      "position": 9,
+      "title": "Story Coffee & Tea LLC from Bellevue, WA – company details",
+      "link": "https://www.bizprofile.net/wa/bellevue/story-coffee-tea-llc",
+      "displayed_link": "https://www.bizprofile.net › Washington › Bellevue",
+      "snippet": "Bellevue, WA, 98004-4418, United States. Mailing Address. 13325 88th Pl Ne Kirkland, WA, 98034-2630, United States. Registered Agent ...",
+      "source": "bizprofile.net"
+    },
+    {
+      "position": 10,
+      "title": "Sunday Coffee Break - Story Coffee (Downtown Bellevue)",
+      "link": "https://www.meetup.com/bellevue-coffee-shop-crawl/events/299338986/",
+      "displayed_link": "https://www.meetup.com › events",
+      "snippet": "... coffee crawl, we're going to visit Story Coffee this Sunday! Details below: STORY COFFEE 11011 NE 9th St B, Bellevue, WA 98004 https://story-coffee.square.site/.",
+      "source": "Meetup"
+    }
+  ]
+}

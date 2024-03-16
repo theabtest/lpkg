@@ -1,0 +1,203 @@
+{
+  "search_metadata": {
+    "id": "65f619e1b7b1cc52d7d14265",
+    "processed_at": "2024-03-16 22:14:57 UTC",
+    "google_url": "https://www.google.com/search?q=HappyBody+Soaps+Seattle%2C+Washington%2C+United+States&oq=HappyBody+Soaps+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&sourceid=chrome&ie=UTF-8"
+  },
+  "knowledge_graph": {
+    "title": "HappyBody Soaps",
+    "type": "Health and beauty shop",
+    "website": "https://happybodysoaps.square.site/",
+    "place_id": "ChIJeSPbnkgPkFQRoVWLGQjt64I",
+    "local_map": {
+      "link": "https://www.google.com/maps/place/HappyBody+Soaps/@47.6727399,-122.3116108,10z/data=!4m2!3m1!1s0x0:0x82ebed08198b55a1?sa=X&ved=2ahUKEwiLu6ak5_mEAxXFLUQIHec7CsgQ_BJ6BAgREAA&hl=en&gl=us",
+      "gps_coordinates": {
+        "latitude": 47.6727399,
+        "longitude": -122.3116108,
+        "altitude": 10
+      }
+    },
+    "profiles": [
+      {
+        "name": "Instagram",
+        "link": "http://www.instagram.com/happybodysoaps"
+      },
+      {
+        "name": "Facebook",
+        "link": "http://www.facebook.com/HappyBodySoaps"
+      }
+    ],
+    "rating": 5,
+    "review_count": 8,
+    "reviews_from_the_web": [
+      {
+        "company": "Facebook",
+        "link": "https://www.facebook.com/HappyBodySoaps/",
+        "rating": 5,
+        "review_count": 14
+      }
+    ],
+    "hours": {
+      "monday": {
+        "opens": "Closed",
+        "closes": "Closed"
+      },
+      "tuesday": {
+        "opens": "Closed",
+        "closes": "Closed"
+      },
+      "wednesday": {
+        "opens": "Closed",
+        "closes": "Closed"
+      },
+      "thursday": {
+        "opens": "12",
+        "closes": "6 PM"
+      },
+      "friday": {
+        "opens": "12",
+        "closes": "6 PM"
+      },
+      "saturday": {
+        "opens": "12",
+        "closes": "6 PM"
+      },
+      "sunday": {
+        "opens": "12",
+        "closes": "5 PM"
+      }
+    },
+    "phone": "(206) 369-1036",
+    "merchant_description": "\"Sustainable handmade soaps, skincare, and gifts.\"",
+    "people_also_search_for": [
+      {
+        "name": "Unforgettable Soaps",
+        "extensions": [
+          "Health and beauty shop"
+        ]
+      },
+      {
+        "name": "Heavenly Soap",
+        "extensions": [
+          "Gift shop"
+        ]
+      },
+      {
+        "name": "Soap Box",
+        "extensions": [
+          "Gift shop"
+        ]
+      },
+      {
+        "name": "Paula's Soaps",
+        "extensions": [
+          "Store"
+        ]
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "HappyBody Soaps",
+      "link": "https://www.facebook.com/HappyBodySoaps/",
+      "displayed_link": "810+ followers",
+      "snippet": "18415 101st Ave NE, Bothell, WA 98011-3455, United States ... 6310 NE 74th St, Seattle, WA. 3,793 people ... I'm excited to have a booth set up inside Seattle ...",
+      "source": "Facebook · HappyBody Soaps",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5
+          }
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "HappyBody Soaps | Dani (@happybodysoaps)",
+      "link": "https://www.instagram.com/happybodysoaps/?hl=en",
+      "displayed_link": "1.3K+ followers",
+      "snippet": "Sustainable Artisan Soap & Skincare 2023 Best in the PNW Bronze Award Free of perfumes & dyes | Zero plastics. Link to order. linktr.ee/happybodysoaps + ...",
+      "source": "Instagram · happybodysoaps"
+    },
+    {
+      "position": 3,
+      "title": "HappyBodySoaps | Bothell WA",
+      "link": "https://www.bothellwa.gov/1947/HappyBodySoaps",
+      "displayed_link": "https://www.bothellwa.gov › HappyBodySoaps",
+      "snippet": "Today, Dani makes and sells an entire line of body care products ... All of the packaging is sustainable ... Bothell, WA 98011. Phone: 425-806-6100 · Contact Us ...",
+      "source": "City of Bothell (.gov)"
+    },
+    {
+      "position": 4,
+      "title": "happybodysoaps | Instagram, Facebook",
+      "link": "https://linktr.ee/happybodysoaps",
+      "displayed_link": "https://linktr.ee › happybodysoaps",
+      "snippet": "HappyBody Soaps Website · Award Winning! Seattle Times Best in the PNW · Location and Hours · Order Form For Local Pickup & Delivery (Bothell, WA area) · Instagram.",
+      "source": "Linktree"
+    },
+    {
+      "position": 5,
+      "title": "Am Happy Soap wholesale products",
+      "link": "https://www.faire.com/brand/b_bmcunon8kf",
+      "displayed_link": "https://www.faire.com › ... › Bath & Body",
+      "snippet": "Am Happy Soap specializes in wholesale bath & body products and are from the United States of America.",
+      "source": "Faire",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {}
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Happy Hands Lotion Bar Gift Set",
+      "link": "https://www.seattlesundries.com/products/happy-hands-lotion-bar-sampler-gift-set",
+      "displayed_link": "https://www.seattlesundries.com › products › happy-han...",
+      "snippet": "Gift-ready set of four all-natural, handcrafted lotion bars. Soothe dry, cracked skin. Perfect for men, women, & kids. Low waste, recyclable tins.",
+      "source": "Seattle Sundries",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {}
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "God Body Soaps | Federal Way WA",
+      "link": "https://www.facebook.com/godbodysoaps/",
+      "displayed_link": "460+ followers",
+      "snippet": "God Body Soaps, Federal Way, Washington. 453 likes. A small business focused on healthy skin through botanical skincare and natural soap. We include only.",
+      "source": "Facebook · God Body Soaps"
+    },
+    {
+      "position": 8,
+      "title": "Estrella Soap – Plant Based & All Natural",
+      "link": "https://estrellasoap.com/",
+      "displayed_link": "https://estrellasoap.com",
+      "snippet": "$5 FLAT RATE SHIPPING ON ALL U.S. ORDERS! ... We are so happy to be working with @keepyourcitysmiling a project by @thesnapbar Their ... Fresh cut lavender bar ...",
+      "source": "Estrella Soap"
+    },
+    {
+      "position": 9,
+      "title": "Happy Body Now Clinic: Home",
+      "link": "https://www.happybodynowclinic.com/index.html",
+      "displayed_link": "https://www.happybodynowclinic.com",
+      "snippet": "Contact Us. Happy Body Now Clinic PLLC in West Seattle 5400 California Avenue SW Suite C, Seattle, WA 98136. Phone 206-769-4056. HIPPA Compliant Fax - 833-938 ...",
+      "source": "Happy Body Now Clinic"
+    },
+    {
+      "position": 10,
+      "title": "Welcome to Happy Bodies LLC -",
+      "link": "https://www.happybodies.com/",
+      "displayed_link": "https://www.happybodies.com",
+      "snippet": "Save with best prices and unbelievable deals at Happy Bodies. FREE shipping specials. Huge selection of highest quality, professional brand vitamins, ...",
+      "source": "Happy Bodies LLC",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {}
+        }
+      }
+    }
+  ]
+}

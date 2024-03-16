@@ -37,7 +37,7 @@ export const isMain = (meta: ImportMeta): boolean => {
 export const ask = async (question: string): Promise<string> => {
   return await new Promise<string>((resolve) => {
     const rl = readline.createInterface({ input, output });
-    rl.question(chalk.cyanBright(question), (answer) => {
+    rl.question(chalk.cyanBright(question + ': \n'), (answer) => {
       resolve(answer);
       rl.close();
     });

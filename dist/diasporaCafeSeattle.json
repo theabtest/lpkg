@@ -1,0 +1,183 @@
+{
+  "search_metadata": {
+    "id": "65f61608e815aff71138fc17",
+    "processed_at": "2024-03-16 21:58:32 UTC",
+    "google_url": "https://www.google.com/search?q=Diaspora+Cafe+Seattle+Seattle%2C+Washington%2C+United+States&oq=Diaspora+Cafe+Seattle+Seattle%2C+Washington%2C+United+States&hl=en&gl=us&sourceid=chrome&ie=UTF-8"
+  },
+  "knowledge_graph": {
+    "title": "Diaspora Seattle Yaupon Espresso",
+    "type": "Cafe",
+    "address": "5023 Rainier Ave S, Seattle, WA 98118",
+    "website": "http://diasporaseattle.com/",
+    "place_id": "ChIJyaCicByiWYwRs_ZSrY4FGLs",
+    "local_map": {
+      "link": "https://www.google.com/maps/place/Diaspora+Seattle+Yaupon+Espresso/@47.556386,-122.2843781,15z/data=!4m2!3m1!1s0x0:0xbb18058ead52f6b3?sa=X&ved=2ahUKEwiy85PQ4_mEAxWevokEHR-lDy0Q_BJ6BAgREAA&hl=en&gl=us",
+      "gps_coordinates": {
+        "latitude": 47.556386,
+        "longitude": -122.2843781,
+        "altitude": 15
+      }
+    },
+    "profiles": [
+      {
+        "name": "Instagram",
+        "link": "http://instagram.com/diasporaseattle"
+      }
+    ],
+    "rating": 5,
+    "review_count": 11,
+    "hours": {
+      "monday": {
+        "opens": "Closed",
+        "closes": "Closed"
+      },
+      "tuesday": {
+        "opens": "9 AM",
+        "closes": "2 PM"
+      },
+      "wednesday": {
+        "opens": "9 AM",
+        "closes": "2 PM"
+      },
+      "thursday": {
+        "opens": "9 AM",
+        "closes": "2 PM"
+      },
+      "friday": {
+        "opens": "Closed",
+        "closes": "Closed"
+      },
+      "saturday": {
+        "opens": "Closed",
+        "closes": "Closed"
+      },
+      "sunday": {
+        "opens": "Closed",
+        "closes": "Closed"
+      }
+    },
+    "phone": "(650) 933-5941",
+    "merchant_description": "\"Diaspora Seattle is a Yaupon Espresso roaster and supplier with diverse and growing ownership. Yaupon is the only caffeinated plant native to North America, known to some First Peoples as Turtle Island. It is considered a superfood high in many adaptogenic compounds including caffeine. It is also very low acid compared to coffee. When roasting, brewing and serving yaupon, we aim to honor and follow the traditions of those who cultivated the plants before us including the Cherokee, Choctaw, and Muscogee people. We use only Regenerative Organic Certified® yaupon leaves from small farms in Georgia, Florida and Texas. The flavor includes familiar notes of both tea and coffee. Turtle Island Energy!\"",
+    "people_also_search_for": [
+      {
+        "name": "Zoka Coffee Roaster & Tea Co",
+        "extensions": [
+          "Coffee shop"
+        ]
+      },
+      {
+        "name": "Post Pike Bar & Cafe",
+        "extensions": [
+          "Cafe"
+        ]
+      },
+      {
+        "name": "Mawadda Cafe",
+        "extensions": [
+          "Mediterranean"
+        ]
+      },
+      {
+        "name": "Kitanda Espresso and Açai - Capitol Hill",
+        "extensions": [
+          "Cafe"
+        ]
+      },
+      {
+        "name": "The Buzz Cafe",
+        "extensions": [
+          "Cafe"
+        ]
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Diaspora Cafe Seattle Yaupon Espresso",
+      "link": "https://diasporaseattle.com/",
+      "displayed_link": "https://diasporaseattle.com",
+      "snippet": "Turtle Island Energy! Diaspora Cafe is a Yaupon Espresso supplier with local and indigenous ownership in Seattle. Contact us for information.",
+      "source": "Diaspora Cafe Seattle"
+    },
+    {
+      "position": 2,
+      "title": "Diaspora Seattle (@diasporaseattle)",
+      "link": "https://www.instagram.com/diasporaseattle/",
+      "displayed_link": "1.3K+ followers",
+      "snippet": "Yaupon espresso roaster with diverse and growing ownership. Fremont market every Sunday LEMS bookstore every T-Th 10-2. Turtle Island Energy.",
+      "source": "Instagram · diasporaseattle"
+    },
+    {
+      "position": 3,
+      "title": "Shop",
+      "link": "https://diasporaseattle.com/shop/",
+      "displayed_link": "https://diasporaseattle.com › shop",
+      "snippet": "Turtle Island Energy! Diaspora Cafe is a Yaupon Espresso supplier with local and indigenous ownership in Seattle. Contact us for information.",
+      "source": "Diaspora Cafe Seattle"
+    },
+    {
+      "position": 4,
+      "title": "Diaspora. | Seattle WA",
+      "link": "https://www.facebook.com/Diaspora.eats/",
+      "displayed_link": "80+ followers",
+      "snippet": "Diaspora. · Page Caterer · (206) 451-9928 · diasporafoundation.org · Not yet rated (4 Reviews).",
+      "source": "Facebook · Diaspora.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5
+          }
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Events from March 12 – February 11, 2025",
+      "link": "https://diasporaseattle.com/events/",
+      "displayed_link": "https://diasporaseattle.com › events",
+      "snippet": "LEMS Bookstore 5023 Rainier Ave S, Seattle, Washington, United States. Diaspora Cafe Yaupon Espresso at LEMS Bookstore in Columbia City Visit us at the ...",
+      "source": "Diaspora Cafe Seattle"
+    },
+    {
+      "position": 6,
+      "title": "Diaspora Cafe Blog",
+      "link": "https://diasporaseattle.com/blog/",
+      "displayed_link": "https://diasporaseattle.com › blog",
+      "snippet": "Diaspora Cafe's mission is to provide space for people to practice their sovereignty and develop deeper relationships with the communities, cultures, ...",
+      "source": "Diaspora Cafe Seattle"
+    },
+    {
+      "position": 7,
+      "title": "Diaspora Archives",
+      "link": "https://diasporaseattle.com/category/diaspora/",
+      "displayed_link": "https://diasporaseattle.com › category › diaspora",
+      "snippet": "Diaspora yaupon espresso is dosed to have slightly less caffeine than coffee. But, what it lakes in caffeine it has in the complementary theobromine, ...",
+      "source": "Diaspora Cafe Seattle"
+    },
+    {
+      "position": 8,
+      "title": "Diaspora Seattle (@diasporaseattle)",
+      "link": "https://www.instagram.com/diasporaseattle/reels/",
+      "displayed_link": "https://www.instagram.com › diasporaseattle",
+      "snippet": "Turtle Island Energy Yaupon espresso supplier with local and indigenous ownership serving Seattle and surrounding area. Bringing the Roots to You!",
+      "source": "Instagram"
+    },
+    {
+      "position": 9,
+      "title": "OUR PARTNERS - Cafe Red",
+      "link": "https://caferedseattle.com/about-us/",
+      "displayed_link": "https://caferedseattle.com › about-us",
+      "snippet": "Diaspora Cafe is a Yaupon Espresso supplier with local and indigenous ownership in Seattle. We developed cafe-style espresso drinks and Atole made with yaupon ...",
+      "source": "caferedseattle.com"
+    },
+    {
+      "position": 10,
+      "title": "Best Kava Bars in Washington",
+      "link": "https://shotofjoy.com/blogs/kava-bars/wa",
+      "displayed_link": "https://shotofjoy.com › blogs › kava-bars",
+      "snippet": "83 1012 E Harrison St, Seattle, WA 98102 ... Nestled in the bustling heart of Seattle, Diaspora Seattle Cafe and Kava shines as a trendsetting cafe with local and ...",
+      "source": "Shot of Joy"
+    }
+  ]
+}
