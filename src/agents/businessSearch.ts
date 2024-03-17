@@ -6,6 +6,7 @@ import {
 import { AgentExecutor, createOpenAIToolsAgent } from 'langchain/agents';
 import { gpt35TurboLLM } from '../ai/llm.js';
 import { businessSearchTool } from '../functions/businessSearch/index.js';
+import { ENVIRONMENT } from '../utilities/config.js';
 
 const tools = [businessSearchTool];
 
@@ -32,6 +33,6 @@ const agent = await createOpenAIToolsAgent({
 export const businessSearchAgent = new AgentExecutor({
   agent,
   tools,
-  verbose: true,
+  verbose: ENVIRONMENT.DEBUG,
   tags: ['business', 'search', 'google', 'agent'],
 });

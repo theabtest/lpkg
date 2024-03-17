@@ -7,6 +7,7 @@ interface Config {
   OPENAI_API_KEY: string;
   OLLAMA_BASE_URL: string;
   SERP_API_KEY: string;
+  DEBUG: boolean;
 }
 
 declare var process: {
@@ -18,6 +19,7 @@ const ENVIRONMENT: Config = {
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || '',
   OLLAMA_BASE_URL: process.env.OLLAMA_BASE_URL || 'http://localhost:11434',
   SERP_API_KEY: process.env.SERP_API_KEY || '',
+  DEBUG: Boolean(process.env.DEBUG) || false,
 };
 
 export { ENVIRONMENT };

@@ -1,5 +1,6 @@
 import { DynamicStructuredTool } from '@langchain/core/tools';
 import z from 'zod';
+import { ENVIRONMENT } from '../../utilities/config.js';
 import { getSerpApiData } from './serpApiRequest.js';
 
 const BusinessSearchToolSchema = z.object({
@@ -16,5 +17,5 @@ export const businessSearchTool = new DynamicStructuredTool({
     return JSON.stringify(result, null, 2);
   },
   tags: ['business', 'search', 'google'],
-  verbose: true,
+  verbose: ENVIRONMENT.DEBUG,
 });

@@ -1,3 +1,5 @@
+import { RunnableConfig } from '@langchain/core/runnables';
+import { Run } from '@langchain/core/tracers/base';
 import chalk from 'chalk';
 import debug from 'debug';
 debug.enable('lpkg:*');
@@ -26,6 +28,26 @@ const createLogger = (
     },
     trace: (...args: any[]) => {
       _logger(colors.trace(...args));
+    },
+  };
+};
+
+export const debugStream = (
+  tag: string,
+): {
+  onStart?: (run: Run, config?: RunnableConfig) => void | Promise<void>;
+  onEnd?: (run: Run, config?: RunnableConfig) => void | Promise<void>;
+  onError?: (run: Run, config?: RunnableConfig) => void | Promise<void>;
+} => {
+  return {
+    onStart: (...args) => {
+      console.log(tag, 'onStart', ...args);
+    },
+    onEnd: (...args) => {
+      console.log(tag, 'onEnd', ...args);
+    },
+    onError: (...args) => {
+      console.error(tag, 'onError', ...args);
     },
   };
 };

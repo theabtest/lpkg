@@ -2,7 +2,7 @@ import chalk from 'chalk';
 import { createRequire } from 'node:module';
 import { dirname } from 'node:path';
 import { argv, stdin as input, stdout as output } from 'node:process';
-import readline from 'node:readline';
+import readline from 'node:readline/promises';
 import { fileURLToPath } from 'node:url';
 
 /**
@@ -34,12 +34,7 @@ export const isMain = (meta: ImportMeta): boolean => {
   return scriptPath === modulePath;
 };
 
-export const ask = async (question: string): Promise<string> => {
-  return await new Promise<string>((resolve) => {
-    const rl = readline.createInterface({ input, output });
-    rl.question(chalk.cyanBright(question + ': \n'), (answer) => {
-      resolve(answer);
-      rl.close();
-    });
-  });
+export const ask = (question: string): Promise<string> => {
+  const rl = readline.createInterface({ input, output });
+  return rl.question(chalk.cyanBright(question + ': '));
 };
