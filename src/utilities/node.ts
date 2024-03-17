@@ -4,6 +4,7 @@ import { dirname } from 'node:path';
 import { argv, stdin as input, stdout as output } from 'node:process';
 import readline from 'node:readline/promises';
 import { fileURLToPath } from 'node:url';
+import ora from 'ora';
 
 /**
  * This is an ESM replacement for `__filename`.
@@ -34,7 +35,18 @@ export const isMain = (meta: ImportMeta): boolean => {
   return scriptPath === modulePath;
 };
 
-export const ask = (question: string): Promise<string> => {
+export const ask = async (question: string): Promise<string> => {
   const rl = readline.createInterface({ input, output });
-  return rl.question(chalk.cyanBright(question + ': '));
+  const result = await rl.question(chalk.cyanBright(question + ': '));
+  rl.close();
+  return result;
+};
+
+export const showSpinner = (text: string) => {
+  const spinner = ora(text);
+  spinner.color = 'yellow';
+  spinner.start();
+  return () => {
+    spinner.stop();
+  };
 };
